@@ -3,7 +3,7 @@ layout: post
 title: "XIAOMI 360 Mi Home Kamera Brick Çözümü"
 date: 2020-07-26 19:44
 categories: ["Teknoloji", "Cihazlar"]
-tags: ["xiaomi", "camera", "brick"]
+tags: ["xiaomi", "camera", "brick", "firmware", "xiaomi-downgrade"]
 ---
 
 Xiaomi Mijia Smart Home 360 Derece kamerasını aldıysanız ve yanlışlıkla update işlemi esnasında kameranızın gücü kesildiyse ve artık çalışmıyorsa yazılımınız brick olmuş demektir. Bu noktada yapabileceğiniz 2 şey var. Ya servise götüreceksiniz yada yazılımı kendiniz güncelleyeceksiniz.

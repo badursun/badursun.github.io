@@ -2,8 +2,8 @@
 layout: post
 title: "Plesk Backup Warning: Unable to get attributes of the file Access is denied -WINDOWS"
 date: 2020-01-27 10:50
-categories: ["Yazılım","Windows Server","Plesk"]
-tags: ["plesk", "plesk backup"]
+categories: ["Yazılım","Windows Server"]
+tags: ["plesk", "plesk backup", "hosting-manager"]
 ---
 
 Plesk backup sisteminde bazen hatalar alırsınız. Bu hatalardan en sık karşılaşılanı olup, backup sürecini etkilemeyen fakat eksik bir şekilde backup alınmasına neden olan Access Denied hatasıdır.

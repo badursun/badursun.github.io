@@ -1,0 +1,36 @@
+---
+layout: post
+title: "Ukrayna Kiev ikinci Gezi Notları"
+date: 2017-01-20 13:07
+categories: ["Hayata Dair", "Gezip Tozup"]
+tags: ["ukrayna", "ukraine", "kiev", "gezi"]
+---
+
+Geçen yıl yine bir Ukrayna Kiev gezisi yapmıştık eşimle beraber. Güzel dostumuz Haki sağolsun o gezide neredeyse tüm Kiev'i gezmekle kalmadık, nasıl yaşanır, nasıl alışveriş yapılır, insanlarla nasıl iletişim kurulmalı noktasında bize çok bilgi verdi. Ayrıca Ukrayna'da 3.gün de tek başımıza dışarıda gezebilecek özgüveni sağladı. Ve bir çok işimizi görecek kadar hızlı Rusça-Ukraynaca dersi verdi.
+
+Rusya ile Ukrayna'nın arası pek iyi sayılmaz. Bu sebeple Rusça ve Ukraynaca arasında büyük farklılıklar var. Belki de çok büyük değildir bu farklar ama adamlar "ben rusça anlamıyorum, ukraynaca konuş" diyebiliyorlar. Bir çok kelime birbirine benzemesine rağmen ve anlamalarına rağmen bir nevi ego gelişmiş sanki.
+
+Bu yıl da ilk durağımız hreşatik (khreshchatyk) oldu. İstanbul, beyoğlu diyebiliriz. Oldukça geniş bir cadde, sağlı sollu bir çok dükkan, cafe, restoran ve mini avm'ler mevcut. Ne çok kalabalık ne de her zaman boş. Gece bile burada -14 derece gösterirken hayat akıyor. Gece aslında daha eğlenceli çünkü seyyar satıcılar, oyun karşılığı bahisçiler, kahveciler ve daha fazlası sokağa dökülmüş oluyor.
+
+Kiev, Khreshchatyk bana çok ferahlatıcı geliyor. Yani İstanbul hayatımda ki stress den oldukça uzaklaşıyorum. Eski soyvyet yapılarının güzelliği kadar, insanları da aslında güzel. Belki de çok derin diyaloglar kurmadığımız için öyle gelmiştir. Bu sene ki gezimizde daha çok dini yapıları görmeyi istemiştim .Bunlardan bir tanesi St. Michael's Golden manastırıydı. Noel zamanına yakın bir tarihte ziyaret ettiğimiz için ayin zamanlarına denk geldik. Hatta tam bir ayin başlangıcında manastıra giriş yapmıştık. Yaklaşık 1 saat kadar zaman geçirdik. İlahileri dinlemesi o kadar huzur veriyor ki, anlatamam. Aslında eşim bir kayıt almıştı ama onu buradan paylaşmam biraz zor :)
+
+### St. Michael's Golden Manastırı
+Gerçekten görülmesi gereken bir yapı St. Michael's Golden manastırı. İçeriye ait pek fotoğraf çekmedim çünkü ayin olduğu için içeride ki insanların bunu saygısızlık olarak algılamasından çekindim. Ayrıca olası bir durumda cevap verecek yeterli rusça - ukraynaca bilgim yok :) En fazla hesap isteme, garson çağırma, durakta inme, gideceğin adresi söyleme, 1 den 10 a kadar sayma gibi yetilerim mevcut henüz :) **спасибо** (spasibo)
+
+### Bell tower of Saint Sophia's
+Aynı gün içinde bir sonra ki durağımız Bell tower of Saint Sophia's katedrali oldu. Buranın en güzel yanı, tam önünde ki yuvarlak meydan da yılbaşı / noel için bir ağacın süslenmesiydi. Yalnız bu katedrali gezmek biraz daha turistik olduğu için ücrete tabiiydi. Eh bir Türk olarak "ne vereceğim yeaa" diyerek gezilebilir iç alanlara bir göz gezdirip, çan kulesine çıkmadan uzaklaştık :) Ukrayna Kiev için gezilecek yegane tarihi yapılardan birisi diyebilirim.
+
+Ekonomik bakımdan Ukrayna, Türkiye'ye göre daha ucuz. Tabii belli başlı şeylerde bu geçerli. Örneğin Elektronik, Tekstil, Kozmetik gibi şeyler neredeyse ülkemiz fiyatları ile aynı. Fakat ulaşım, gıda, özel tüketim (sigara, alkol vb) daha ucuz. Mesela 15-20 Aralık 2016 tarihinde ki gezimizde Türkiye'den aldığım Marlboro Touch sigarası 12,00 TL iken, ukrayna da 25,00 грн (grivna-UAH) o günün kurundan 2,98 TL yapıyor. Düz hesap 3 TL. Kalite aynı, ambalajı bence daha iyi :) Eh gelirken hakkımız kadarını aldık geldik tabiki de. Bu da Türkiye pazarında eşim ve benim sigara hakkımdan yaklaşık 500 TL lik bir kar demek :) Uçak bileti bedavaya geldi diyebiliriz.
+
+### The Ukrainian State Museum of the Great Patriotic War
+Geçen sene yaptığmız ukrayna gezimde ise beni etkileyen yegane yerlerden birisi de büyük savaş müzesiydi. Tarihte yaşananların nasıl ve ne şekilde yaşandığını en iyi anlatan hikaye buradaydı. Bir kaç kare ile görmenizi sağlayabilirim ama mutlaka gidin ve görün. Giriş ücretli, yaklaşık 35 grivna (o dönemde 5 TL civarındaydı) gibi bir ücreti var kişi başına. Fotograf çekimi için ekstra ücret istiyorlar ama telefon ile istediğiniz gibi çekin :) Sizi kontrol eden yok. Müzenin içerisini gezemedik çünkü gittiğimiz gün -14 derece hava vardı ve pazar günüydü. Dolayısıyla kapalı müzeyi kısıtlı zamanımızdan dolayı tekrar geri dönerek ziyaret etmeyi tercih etmek. Müze içerisinde savaşta kullanılan her türlü kalıntı var. Öyle ki savaş sırasında düşen bir Alman uçağıda müzede sergilenmekte. El bombaları, füzeler, kayıklar, askeri araçlar, tabanca-tüfekler vb. savaş denilince aklınıza ne geliyorsa artık…
+
+### The Motherland Monument / Rodina Mat (Mother Motherland)
+Motherland heykeli; 62 metre uzunluğunda (üzerinde durduğu standı da sayarsak 102 metre), 560 ton ağırlığında bir heykel. Sağ elinde 16 metre uzunluğunda ve 9 ton ağırlığında bir kılıç, sol elinde 13×8 metrelik bir kalkan (üzerinde sovyet amblemi var) tutuyor. 1981 yılında tamamlanarak buraya konulmuş. Heykelin sağ elinde tuttuğu kılıcın bir kısmı yapıldıktan sonra kesilmiş. Sebebi ise elinde tuttuğu kılıçla birlikte oluşan heykel yüksekliğinin, aynı tepe üzerinde bulunan ve birazdan bahsedeceğim Pechersk Lavra manastırından yüksek oluşuymuş. Bu nedenle kılıcın bir kısmı sonradan kesilmiş.
+
+Burası da ukrayna için önemli bir simge. Kiev bölgesi ve çevresinden bakıldığında mutlaka gözüküyor. Özellikle Anne heykili.. Benim ise anladığım en önemli nokta, ukrayna'nın bir "kadın" simgesi olması ve kadın'a olan saygıyı gösteriyor. Tabiki de bizim milletimiz için Ukrayna demek daha farklı anlamlara yol açıyor malesef. Keşke bu kadar ön yargılı ve art niyetli bir millet olmasak.
+
+### Ukrayna Kiev Metrosu
+Ukrayna Kiev Metrosu (Ukraynaca: Київський метрополітен or Київське метро; Rusça: Киевский метрополитен, Киевское метро) Ukrayna'nın başkenti Kiev'in toplu taşımasında lokomotif görevi üstlenen metro ağıdır. Ukrayna'da yapılan ilk hızlı taşıma sistemidir. Ayrıca SSCB'de yapılan Moskova ve St Petersburg metrolarının ardından üçüncü metrodur. Metro sistemi günlük 1.38 milyon yolcu taşımaktadır. Bu rakam Kiev'in toplu taşımadaki yolcu sayısının %42.5'ünü oluşturmaktadır. En derindeki istasyon Arsenalna 105.5 metre derinlikte yer almaktadır. 50 istasyonu bulunan metro hattı, üç hattan oluşmaktadır. Hattın uzunluğu 65.18 kilometredir.
+
+Hani cehenneme inen bir tünel düşünün, kiev metrosu da öyle derin. Yürüyen merdivenler olmasa eminim inen bir daha çıkmaz :) İlk metroya girdiğimizde çok şaşırmıştım, bu kadar derine nasıl inildi diye. Aslında oldukça tarihsel bir hikayesi var. Fakat şunu söyleyebilirim, Ukrayna da özellikle gördüğüm Kiev'de yer altı yaşamı oldukça düzenli. Yer altında ki geçitlerde yüzlerce dükkan, kafe ve mini avm ler ile bir noktadan başka noktaya kadar seyahat edebiliyorsunuz ve ihtiyaçlarınızı karşılayabiliyorsunuz. Kış aylarının çetin geçtiğini düşünürsek yer altı mağazaları, mekanları, tünelleri ve metro bağlantıları seyahatlerinizi oldukça kolaylaştırıyor. Metro ile ilgili söyleyebileceğim şeylerden birincisi; yürüyen merdivenler Türkiye'de bildiğiniz yürüyen merdivenlerden oldukça hızlı hareket ediyor. Zira o kadar yolu başka türlü hızlı ilerleyemezsiniz. İkinci nokta ise, yeraltına indikten sonra metro ağında bir noktadan bir çok noktaya aktarmalı olarak seyahat edebilirsiniz üstelik bir bilet 4 grivna. Bu dönemde 8 grivna 1 TL yapıyordu :)

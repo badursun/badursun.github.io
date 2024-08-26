@@ -2,8 +2,8 @@
 layout: post
 title: Windows Server Classic ASP CORS Policy Problemi Çözümü
 date: 2021-10-22 12:04:00
-categories: ["Yazılım","Windows Server","Classic Asp"]
-tags: ["window", "asp", "cors", "webconfig"]
+categories: ["Yazılım","Windows Server"]
+tags: ["windows", "asp", "cors", "webconfig", "classic-asp"]
 ---
 
 ![Windows Server Classic ASP CORS Policy Problemi Çözümü](/assets/img/2021-10-22-windows-server-classic-asp-cors-policy-problemi-cozumu.png)
@@ -15,7 +15,7 @@ Access to XMLHttpRequest at ‘https://www. xxxxxx’ from origin ‘http://www.
 İşte bu sorunun windows server’larda Classic ASP ile çözümü oldukça basit. Tabii konu derinlemesine güvenlik içeriyor fakat özetle bu soruna kısadan bir çözüm yolunu web.config dosyası ile nasıl yaparsınız; işte hazır bir web.config dosyası
 
 ## web.config Dosyası Güncellemesi
-   ```xml
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
     <system.webServer>
@@ -28,6 +28,6 @@ Access to XMLHttpRequest at ‘https://www. xxxxxx’ from origin ‘http://www.
         </httpProtocol>
     </system.webServer>
 </configuration>
-   ```
+```
 
 Eğer bir servisinizde CORS hatası ile karşılaşıyorsanız, servisinizi sunduğunuz temel web.config ayarı yukarıda ki gibi olmalıdır. Bu ayarlar ile POST, GET, OPTIONS, PUT ve DELETE methodlarına izin verirsiniz. Burada önemli olan bir ayrıntı OPTIONS methodur. Bu method güncel bir çok tarayıcı tarafından PREFILGHT yani CORS kontrolünde ilk adım olarak gerçekleşir, dolayısıyla mutlaka OPTIONS eklemenizde fayda var. Ayrıca servisinizde bir Authorization header ekli ise yine izin verilen header parametresine bunu eklemenizde fayda olacaktır.

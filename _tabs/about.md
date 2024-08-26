@@ -4,28 +4,27 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> “Keep your eyes on the stars, and your feet on the ground.”
+> ## “Keep your eyes on the stars, and your feet on the ground.”
 
-## Hakkımda
+---
 
 80'lerde dünyaya gelmiş bir aslan burcu olarak, şu anda bir ajans başkanı, deneyimli bir yazılımcı ve laboratuvar cihazları üretim ve teknik servisliği yapan şirketin yöneticisiyim. Evli, 4 kedi babası ve aktif bir profesyonel olarak, teknoloji ve yazılım dünyasında uzun yıllardır çalışıyorum.
 
-**Şirket Deneyimlerim:**
+Bu blogda, teknoloji, yazılım ve kişisel düşüncelerimle ilgili çeşitli yazılar bulabilirsiniz. Burada, beynimin dışa vurumlarını ve projelerimi paylaşmayı sürdüreceğim.
 
-- **Adjans Digital Agency**
-- **Fırın Destek**
+#### Şirket, İş Kolları ve Markalarım
+- [Adjans Digital Agency](https://adjans.com.tr/)
+- [Fırın Destek](https://firindestek.com/)
 
----
-
-**Teknolojik Yetkinliklerim:**
+#### Teknolojik Yetkinliklerim
 
 | **Kategori**| **Teknolojiler**|
-|--------------------------|----------------------------------------------------------------|
-| **Programlama Dilleri** | Classic ASP, Visual Basic, PHP, C++, BASIC, True BASIC, Java, JavaScript, Python|
-| **Web Teknolojileri** | HTML, CSS, NodeJS, Framework7, Bootstrap, jQuery|
-| **Veritabanları** | MySQL, MSSQL, SQLite, NoSQL, MongoDB, FlexDB|
-| **Diğer Teknolojiler** | Photoshop, InDesign, Arduino, 3D Yazıcı Teknolojisi|
+|---|---|
+| **Dev Languages** | Classic ASP, .Net, Visual Basic, Php, C++ |
+|  | Basic, True Basic, Java, JavaScript, Python, NodeJS, TypeScript, Ruby, Unity |
+| **Web Tech** | HTML, HTML5, CSS, Scss, Sass |
+| **Database Systems** | MySQL, MSSQL, SQLite, NoSQL, MongoDB, PostgreSQL |
+| **WebDev. Framework** | Framework7, Bootstrap, jQuery, Jekyll, Express, Electron |
+| **Embedded Systems** | Arduino, Raspberry Pi, ESP Series |
+| **Other Tech** | Photoshop, Adobe XD, InDesign, Figma, Sketch |
 
----
-
-Bu blogda, teknoloji, yazılım ve kişisel düşüncelerimle ilgili çeşitli yazılar bulabilirsiniz. Burada, beynimin dışa vurumlarını ve projelerimi paylaşmayı sürdüreceğim.
