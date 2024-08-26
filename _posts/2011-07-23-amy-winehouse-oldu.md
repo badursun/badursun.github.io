@@ -22,4 +22,4 @@ Londra Metropolitan polisinden bir yetkili, “Winehouse’un Camden bölgesinde
 
 Londra Ambulans Hizmeti’nin TSı 17.54’te Winehouse’un evine iki ambulans gönderdiği, ancak ambulanslar vardığında şarkıcının ölmüş olduğu ifade edildi.
 
-Kaynak: [Mynet](http://haber.mynet.com/detay/dunya/flasamy-winehouse-oldu/583331)
+Kaynak: [Mynet](https://haber.mynet.com/detay/dunya/flasamy-winehouse-oldu/583331)

@@ -10,7 +10,7 @@ Xiaomi Mijia Smart Home 360 Derece kamerasını aldıysanız ve yanlışlıkla u
 
 İnternette firmware olarak bir çok sürüm var fakat güvenilir mi sorusu önemli. Neticede evinizi internete açan bir sistem kullanıyorsunuz ve kamera sürekli kayıt aldığı için istemediğiniz görüntülerin yanlış kişlerin ellerine geçmesine sebep olabilirsiniz. Sonuçta ev haliniz.
 
-Neyse, her zaman ki gibi sadede gelelim :) Xiaomi kameranız güncelleme işlemi esnasında çöktüyse yazılımı manuel olarak yeniden yüklemek için bir micro SD karta ihtiyacınız olacak. [tf_recovery.img](assets/files/tf_recovery.img_.zip) bu linkten indirip aşağıda ki adımları takip edin.
+Neyse, her zaman ki gibi sadede gelelim :) Xiaomi kameranız güncelleme işlemi esnasında çöktüyse yazılımı manuel olarak yeniden yüklemek için bir micro SD karta ihtiyacınız olacak. [tf_recovery.img](https://drive.google.com/file/d/1yo1XPeZs8m5j-tUSrMXTgjZqnSlDbW7O/view?usp=sharing) bu linkten indirip aşağıda ki adımları takip edin.
 
 ## Prosedür
 - Micro SD kartınızı Fat32 olarak formatlayın.
@@ -29,7 +29,7 @@ Neyse, her zaman ki gibi sadede gelelim :) Xiaomi kameranız güncelleme işlemi
 - Put your SD card in camera and turn it on. You will see orange light flashing. Process will take few minutes, do not disturb it in any way. Camera will automatically reboot and you will hear request to pair with WiFi in the speaker.
 
 ## Tüm İmajlar / Other İmages
-[tf_recovery.img](assets/files/tf_recovery.img_.zip)
+[tf_recovery.img](https://drive.google.com/file/d/1yo1XPeZs8m5j-tUSrMXTgjZqnSlDbW7O/view?usp=sharing)
 
 ## Genel Özellikler
 Xiaomi Mijia Smart Home 360 Derece Dönebilen Kızılötesi Gece Görüşlü IP Kamera HD 1080p 360° PTZ kontrol, gece görüşü, hareket algılama, intercom ve akıllı telefonlardan kontrol gibi özellikleri ile tercih edilebilecek en iyi IP kameralardan birisi olan MiJia kamera ile evinizde ya da iş yerinizde kendi güvenlik sisteminizi kurabilirsiniz.
