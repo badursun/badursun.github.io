@@ -3,7 +3,7 @@ layout: post
 title: "Hayata Dair Eflatun Söylediği"
 date: 2010-05-30 14:31
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
-tags: []
+tags: ["platon", "eflatun", "hayata-dair"]
 ---
 
 Önce Platon hakkında bir Viki bilgisi ile başlayalım, hayata dair çok önemli bilgileri kimden öğrendiğimizi tanımamız önemlidir: Platon ya da İslam dünyasında Eflatun olarak bilinen, Antik klasik Yunan filozofu, matematikçi ve batı dünyasındaki ilk yüksek öğretim kurumu olan Atina Akademisinin kurucusudur.
