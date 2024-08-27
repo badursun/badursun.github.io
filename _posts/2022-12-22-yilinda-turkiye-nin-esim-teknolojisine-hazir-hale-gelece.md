@@ -4,6 +4,7 @@ title: "2020 yılında Türkiye’nin eSIM teknolojisine hazır hale gelecek"
 date: 2022-12-22 09:30
 categories: ["Teknoloji", "Son Gelismeler"]
 tags: ["esim", "btk", "teknoloji"]
+toc: true
 ---
 
 ![2020 yılında Türkiye’nin eSIM teknolojisine hazır hale gelecek](assets/img/2022-12-22-yilinda-turkiye-nin-esim-teknolojisine-hazir-hale-gelece.jpg)

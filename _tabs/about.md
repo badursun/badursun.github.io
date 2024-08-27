@@ -21,7 +21,7 @@ Bu blogda, teknoloji, yazılım ve kişisel düşüncelerimle ilgili çeşitli y
 | **Kategori**| **Teknolojiler**|
 |---|---|
 | **Dev Languages** | Classic ASP, .Net, Visual Basic, Php, C++ |
-|  | Basic, True Basic, Java, JavaScript, Python, NodeJS, TypeScript, Ruby, Unity |
+|  | True C, Java, JavaScript, Python, NodeJS, TypeScript, Ruby, Unity |
 | **Web Tech** | HTML, HTML5, CSS, Scss, Sass |
 | **Database Systems** | MySQL, MSSQL, SQLite, NoSQL, MongoDB, PostgreSQL |
 | **WebDev. Framework** | Framework7, Bootstrap, jQuery, Jekyll, Express, Electron |

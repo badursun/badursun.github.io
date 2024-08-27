@@ -4,12 +4,12 @@ title: "ASP ile IP Adresi Validate Fonksiyonu"
 date: 2013-01-28 09:39
 categories: ["Yazılım","Classic Asp"]
 tags: ["google", "search engine", "privacy", "fonksiyon", "function"]
+toc: true
 ---
 
 ASP ile bazı değerlerin validate edilmesi bazen zor olabilir. Her değerin validate edilebilmesi için de farklı fonksiyonlar ve kurgular gerekebiliyor. Bunun için bir IP Validate fonksiyonu hazırladım. Buyrun kullanın
 
 ### ASP İle IP Validate Fonksiyonu Kullanımı
-
 size true yada false olarak dönecektir.
 
 ### ASP IP Validate Fonksiyonu

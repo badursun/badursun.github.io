@@ -4,6 +4,7 @@ title: "ESP8266 ile Proje Geliştirmeye Başlamak"
 date: 2017-01-28 15:28
 categories: ["Yazılım", "Embedded System"]
 tags: ["esp8266", "wifi", "arduino", "nodemcu"]
+toc: true
 ---
 
 Gömülü sistemlere ilk adımı attıysanız, sanıyorum ki bu dünyadan zevk almaya başlamışsınızdır. Bu sonsuz hazzı devam ettirmezseniz, içinizi yemeye başlayabilir. Bir sonraki adımda ne yapacağınızı düşünüyorsanız, büyük ihtimalle ESP8266 serisi çiplerle uzaktan da olsa tanışmışsınızdır. ESP8266 serisi çipler, Wi-Fi ile internete bağlanabilen, hem küçük boyutlu hem de uygun fiyatlı çip kartlarıdır. Günümüzde internete bağlanamayan neredeyse hiçbir cihaz kalmadı: buzdolabı, çamaşır makinesi, evler, televizyonlar... Aklınıza gelebilecek neredeyse her cihaz artık internete bağlanabiliyor. Sanırım bir tek tencere ve ütüler kaldı :)
