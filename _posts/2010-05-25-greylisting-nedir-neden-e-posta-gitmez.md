@@ -22,6 +22,6 @@ Böyle bir durum söz konusu olduğu zaman, gönderdiği maillerin geri döndü�
 
 Ayrıca, triplet’i daha önceden görülmemiş ama spam olmayan masum bir mail ilk denemede reject edilir, ikincide kabul edilir. Bu durum mailin ulaşma süresini biraz uzatıcı bir faktördür. Zira, mail serverların geçici olarak reject edilmiş mailler için yeniden deneme süreleri birbirinden farklı olmakla birlikte biraz uzundur. Bu nedenle mailleşmelerde bir miktar gecikme yaşanması olası bir durumdur.
 
-Bu kullanışlı ve kurnaz yöntemle ilgili olarak işin detaylarını anlatan bir iki kaynak: [http://projects.puremagic.com/greylisting/](http://projects.puremagic.com/greylisting/), [http://en.wikipedia.org/wiki/Greylisting](http://en.wikipedia.org/wiki/Greylisting)
+Bu kullanışlı ve kurnaz yöntemle ilgili olarak işin detaylarını anlatan bir iki kaynak: [https://projects.puremagic.com/greylisting/](https://projects.puremagic.com/greylisting/), [https://en.wikipedia.org/wiki/Greylisting](https://en.wikipedia.org/wiki/Greylisting)
 
 Ayrıca, spamdyke qmail için greylisting desteği de veriyor.

@@ -68,7 +68,7 @@ Response.Write oJSON.JSONoutput()                   'Return json string
 **Release 1.13 December 2013**
 - Encoded data fix
 - Now possible to load directly from a URL.
-For example: oJSON.loadJSON("http://www.aspjson.com/jsonstream.asp")
+For example: oJSON.loadJSON("https://www.aspjson.com/jsonstream.asp")
 
 **Release 1.12 June 2013**
 - vbCrLf fix
