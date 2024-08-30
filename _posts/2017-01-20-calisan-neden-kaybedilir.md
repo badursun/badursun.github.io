@@ -5,6 +5,7 @@ date: 2017-01-20 12:23
 date: 2011-04-11 13:17
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: []
+toc: true
 ---
 
 Süleyman Özal tarafından paylaşılmış bir yazıydı. "Çalışan Neden Kaybedilir", gerçekten ince noktalara değinilmiş. İş verenlerin mutlaka okuması gereken bir yazı olduğunu düşünüyorum. Eski bir çalışan ve şimdiyse bir iş veren olarak bu durumları yaşamış ama yaşatmamış olmak için çok çaba sarf ederim. Umarım her iş veren aynı özveriyi gösterir. 

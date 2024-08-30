@@ -4,6 +4,7 @@ title: "IIS web.config HTTP - HTTPS Force Redirect Sample"
 date: 2020-01-25 17:14
 categories: ["Yazılım","Windows Server"]
 tags: ["windows", "asp", "https", "webconfig", "classic-asp"]
+toc: true
 ---
 
 ## IIS web.config HTTP - HTTPS Force Redirect Sample

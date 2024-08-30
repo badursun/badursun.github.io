@@ -4,6 +4,7 @@ title: "Bitcoin ve Bitcoin Hırsızlıkları (coinbitclip)"
 date: 2017-06-07 17:36
 categories: ["Teknoloji", "Blockchain"]
 tags: ["bitcoin", "satoshi", "coinbitclip"]
+toc: true
 ---
 
 Bitcoin dijital bir para birimi olması nedeniyle dijital dünyanın da saldırısı altında. Merkezi bir otoritesininin de olmaması tabiki dolaylı yoldan hukuki bir savunma mekanizması da olmamasına neden oluyor. Yani birisi size ait bir bitcoini çalarsa, yapabileceğiniz hiç bir şey yok. Olaki buldunuz, kendi usulünüze göre çözmeye çalıştınız (dayak gibi :)), bu sefer siz suçlu oluyorsunuz. Yani yapmanız gereken en önemli birinci adım, güvenlik. İkinci adım güvenlik, üçüncü adım, güvenlik... Dijital dünyada açgözlü ve kötü niyetli bir çok insan anonim bir şekilde emellerine yönelik çalışmalarına aralıksız devam etmektedir. Haliyle, paranızı ve bilginizi güvende tutmak çok önemli. Geçtiğimiz günlerde patlak vermeye başlayan bir virüsden bahsedeceğim, adı coinbitclip veya nam-ı diğer trojan.coinbitclip. Yapısı gereği bulaştığı bilgisayarlarda (windows) bitcoinle para transfer edilirken siz fark etmeden bitcoin adresini içinde bulunan ve kopyaladığınız adrese en benzer adres ile değiştiriyor ve farkında olmadan kendi elinizle saldırganın hesabına parayı göndermiş oluyorsunuz.

@@ -4,6 +4,7 @@ title: "301 Redirect Permanently - Site Taşıma ve 301 Yönlendirmesi"
 date: 2017-02-02 10:29
 categories: ["Yazılım", "Classic Asp"]
 tags: ["classic asp", "asp", "301-redirect", "redirect"]
+toc: true
 ---
 
 Yine bir gün baktım projenin performansı alan adı tarafından engelleniyor, çok akıllıca bir alan adı almadığıma karar verdim. İşte o anda, indexlenmiş içerikleri kaybetmeden, mevut ziyaretçileri ürkütmeden projemi yeni alan adına nasıl taşırım diye düşündüm. 

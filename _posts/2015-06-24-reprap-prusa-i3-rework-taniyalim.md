@@ -4,6 +4,7 @@ title: "Reprap Prusa I3 Rework Tanıyalım"
 date: 2015-06-24 11:44
 categories: ["Teknoloji", "3D-Printer"]
 tags: ["3d-printer", "arduino", "arduino-mega", "reprap", "diy", "embedded-system"]
+toc: true
 ---
 
 ## RepRap Nedir ?

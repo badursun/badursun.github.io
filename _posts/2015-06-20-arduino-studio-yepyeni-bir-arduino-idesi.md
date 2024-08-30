@@ -4,6 +4,7 @@ title: "Arduino Studio : Yepyeni Bir Arduino IDE'si"
 date: 2015-06-20 12:32
 categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "ide", "arudino-ide"]
+toc: true
 ---
 
 Arduino platformu bir lisans sorunu yüzünden iki başlı yönetilmeye devam ediyor. arduino.cc ve arduino.org. 

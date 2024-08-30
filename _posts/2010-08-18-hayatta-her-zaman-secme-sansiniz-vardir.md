@@ -4,6 +4,7 @@ title: "Hayatta Her Zaman Seçme Şansınız Vardır"
 date: 2010-08-18 13:25
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["jerry", "secimler", "pozitif-yasam"]
+toc: true
 ---
 
 ![Jerry](assets/img/jerry.webp)

@@ -4,6 +4,7 @@ title: "Classic ASP ile SOAP iletişimi"
 date: 2016-11-26 13:18
 categories: ["Yazılım", "Classic Asp"]
 tags: ["soap", "classic-asp", "asp"]
+toc: true
 ---
 
 ASP ile SOAP kullanımı biraz dertlidir. Ben yakın zamanda ki bir projemde iletişimi sağlamak için hazırladığım kod örneğini paylaşıyorum. Tabii yapıya göre, node isimlerine göre düzenlemeniz gerekebilir fakat ilk adım iletişimi sağlamaktır. Aşağıda ki kod örneği ile bu iletişimi sağlayabilirsiniz. s= stringi içinde SOAP yığını oluşturulur. 

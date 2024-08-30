@@ -4,6 +4,7 @@ title: "Baba Bana Bir Saatini Ayırır Mısın ?"
 date: 2010-08-13 14:11
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["hikaye"]
+toc: true
 ---
 
 Adam yorgun argın eve döndüğünde 5 yaşındaki oğlunu kapının önünde beklerken bulmuş. Çocuk babasına; **Baba, bana zaman ayır, 1 saatte ne kadar para kazanıyorsun diye sormuş.** Zaten yorgun gelen adam; ** Bu senin işin değil,** diye yanıtlamış. 

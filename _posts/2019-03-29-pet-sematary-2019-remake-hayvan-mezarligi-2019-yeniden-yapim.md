@@ -4,6 +4,7 @@ title: "Pet Sematary 2019 ReMake - Hayvan Mezarlığı 2019 Yeniden Yapım"
 date: 2019-03-29 10:15
 categories: ["Hayata Dair", "Film - Dizi - Sinema"]
 tags: ["stephen-king", "film", "vizyon"]
+toc: true
 ---
 
 Bir çok unutulmaz kurgu, hikaye, film ve kitaba imza atan Stephen King en popüler romanlarından biri olan Hayvan Mezarlığı yeniden sinemada gösterime giriyor. 2019 yılı sizi gerim gerim gerecek ve tüylerinizi diken diken edecek korku filmlerini beraberinde getiriyor. Bunlardan heyecanla beklediğimiz birisi ise Hayvan Mezarlığı...

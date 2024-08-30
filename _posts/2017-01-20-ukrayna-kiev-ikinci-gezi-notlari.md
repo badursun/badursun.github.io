@@ -4,6 +4,7 @@ title: "Ukrayna Kiev ikinci Gezi Notları"
 date: 2017-01-20 13:07
 categories: ["Hayata Dair", "Gezip Tozup"]
 tags: ["ukrayna", "ukraine", "kiev", "gezi"]
+toc: true
 ---
 
 Geçen yıl yine bir Ukrayna Kiev gezisi yapmıştık eşimle beraber. Güzel dostumuz Haki sağolsun o gezide neredeyse tüm Kiev'i gezmekle kalmadık, nasıl yaşanır, nasıl alışveriş yapılır, insanlarla nasıl iletişim kurulmalı noktasında bize çok bilgi verdi. Ayrıca Ukrayna'da 3.gün de tek başımıza dışarıda gezebilecek özgüveni sağladı. Ve bir çok işimizi görecek kadar hızlı Rusça-Ukraynaca dersi verdi.

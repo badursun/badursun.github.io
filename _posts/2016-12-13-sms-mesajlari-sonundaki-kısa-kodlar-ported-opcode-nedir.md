@@ -4,6 +4,7 @@ title: "SMS Mesajları Sonundaki Kısa Kodlar (Ported Opcode) Nedir?"
 date: 2016-12-13 19:02
 categories: ["Teknoloji"]
 tags: ["sms", "btk", "ported opcode"]
+toc: true
 ---
 
 Bu kodlar hepinizin dikkatini çekmiştir. Son zamanlarda gelen SMS mesajlarının sonunda B001, B012 gibi kısa kodlar görüyorsunuzdur. İlk bakışta anlamsız gibi görünse de aslında bu kodlar önemli bir işlev taşıyor. Bilgi Teknolojileri ve İletişim Kurumu (BTK), vatandaşlara gönderilen SMS'lerin kontrol altında tutulması ve düzenlenmesi amacıyla bu kodları devreye soktu. Çünkü bazı mesajlar, özellikle reklam ve tanıtım içerikli olanlar, ciddi bir rahatsızlık kaynağı olabiliyor. Örneğin, bana son bir yıldır sürekli olarak bahis içerikli mesajlar geliyor ve bu gerçekten can sıkıcı olabiliyor.

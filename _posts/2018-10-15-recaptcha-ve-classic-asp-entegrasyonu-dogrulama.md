@@ -4,6 +4,7 @@ title: "reCAPTCHA ve Classic ASP Entegrasyonu (Doğrulama)"
 date: 2018-10-15 12:55
 categories: ["Yazılım", "Classic Asp"]
 tags: ["google", "classic-asp", "asp", "recaptcha", "functions", "fonksiyonlar"]
+toc: true
 ---
 
 Classic ASP ile yazılmış web sitelerinize reCAPTCHA ve Classic ASP Entegrasyonu nasıl yapacaksınız? En hızlısından çözüme gidiyoruz. Mevcut sistmeinize entegre edecekseniz yapınızda ki değişiklikleri uyarlamanız gerekecek fakat endişe edecek birşey yok, çünkü her ne kadar "klasik asp öldü" deselerde, doğru kod yapısı ile herşeyi entegre edebilir, kullanabilirisiz. 

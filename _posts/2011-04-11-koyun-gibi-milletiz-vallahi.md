@@ -3,7 +3,8 @@ layout: post
 title: "Koyun Gibi Milletiz Vallahi"
 date: 2011-04-11 13:17
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
-tags: []
+tags: ["hikaye", "kobayashe"]
+toc: true
 ---
 
 Siz onu göremezsiniz. yeri ve zamanı geldiğinde o sizi bulur. kah yollarda, oradan oraya aktarmalarda geciken araç yüzünden, kah bankada, veznede, sırada para ödeyecekken gelir ve o sessiz ama gürültüye gebe ortama limon sıkarcasına görevliye akıl verir.

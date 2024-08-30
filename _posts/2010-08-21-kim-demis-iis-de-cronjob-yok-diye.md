@@ -4,6 +4,7 @@ title: "Kim demiş IIS de Cronjob Yok Diye?"
 date: 2010-08-21 12:02
 categories: ["Yazılım", "Windows Server"]
 tags: ["windows", "linux", "cronjob", "crontab", "james-crooke"]
+toc: true
 ---
 
 Birçok Linux tabanlı yazılımcının "1-0 öndeyiz" dediği cronjob (crontab) yani zamanlanmış görev özelliği, artık bir yama ile Windows'ta da kullanılabilir hale geliyor. Eğer çok yoğun bir web siteniz yoksa, genellikle tarih tutarak `Server.Execute()` metodu ile bu işlevi indexinize gömerek veya web tabanlı ücretli/ücretsiz cron servislerini kullanarak çözüm bulabilirsiniz. Ancak artık cronjob, eskisi gibi külfetli değil.

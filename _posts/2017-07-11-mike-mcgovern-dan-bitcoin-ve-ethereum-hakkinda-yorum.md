@@ -4,6 +4,7 @@ title: "Mike McGovern'dan Bitcoin ve Ethereum Hakkında Yorum"
 date: 2017-07-11 20:50
 categories: ["Teknoloji", "Blockchain"]
 tags: ["bitcoin", "satoshi", "satoshi-nakamoto", "bitcoin-kazanmak"]
+toc: true
 ---
 
 Dünya'nın en büyük bankasının yöneticilerinin kripto paralar hakkında fikir sahibi olmaması, blockchain tabanlı finans modellerinin gücünün ve başarısının ne denli fazla olduğunu göremiyor olması bir hayli şaşırtıcı olurdu. Amerika'nın en eski özel bankası Brown Brothers Harriman & Co'nun yöneticilerinden Mike McGovern da Bitcoin ve Ethereum, blockchain sistemleriyle ilgilenen banka yöneticilerinden biri. Artık günümüzde tanınan, bilinen, sektörün liderleri de yeni nesil finansal araçları ciddi anlamda değerlendiriyorlar.

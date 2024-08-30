@@ -4,6 +4,7 @@ title: "Yengeç Sepeti Sendromu"
 date: 2019-07-21 10:37
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["yengec-sepeti", "hikaye"]
+toc: true
 ---
 
 Kumsalda yürüyen bir adam, avlanan balıkçıya yaklaştığında kova içerisindeki yakalanmış yengeçleri görür. Kovanın üstü açıktır, kapağı yoktur. Bu durum onu şaşırtır, çünkü yengeçlerin kaçabileceğini düşünür. Balıkçıya sorduğunda "Evet, tek bir yengeç olsaydı, kesinlikle kaçardı. Ancak, pek çok yengeç varsa, biri kaçmaya çalıştığında diğerleri onu yakalar, kaçamıyacağından emin olur, geri kalanlar da aynı kaderi yaşarlar." yanıtını alır. Tek yengeç kapaksız kovadan rahatlıkla çıkabilirken sayı arttıkça kaçış imkansızlaşır. Çünkü birbirlerini yukarı itmek yerine, aşağı çekerek engellerler. Sonunda kimse kazanamaz. Bu durum, Yengeç Sepeti Sendromu’nun çıkış noktasıdır.

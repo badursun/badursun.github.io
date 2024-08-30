@@ -4,6 +4,7 @@ title: "Bitcoin Gold sahibi oldum mu?"
 date: 2017-11-25 14:27
 categories: ["Teknoloji", "Blockchain"]
 tags: ["bitcoin", "bitcoin-gold", "btg", "crypto-currency"]
+toc: true
 ---
 
 **Bitcoin Gold** sahibi oldunuz mu olmadınız mı? Nasıl öğreneceksiniz?

@@ -4,6 +4,7 @@ title: "Ateşi Yaşayan 4 Kelebek"
 date: 2010-08-16 13:31
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["dort-kelebek"]
+toc: true
 ---
 
 ![Dört kelebek](assets/img/fire-butterfly.jpg)

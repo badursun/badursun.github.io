@@ -4,6 +4,7 @@ title: "3D Printer'da T8 Trapez Mil Kullanımı ve Ayarları"
 date: 2017-02-28 10:21
 categories: ["Teknoloji", "3D-Printer"]
 tags: []
+toc: true
 ---
 
 3D Printer'da kullanım yaygınlaştıkça, açık kaynaklı özelliğinden dolayı hep bir adım daha fazla kaliteyi arttırma çabaları görünüyor. Herkesin derdi daha kaliteli bir 3D Printer sahibi olmak, kusursuz baskılar almak. Hızlı olmasını sağlamak falan filan... Öncelikle şunu söylemek istiyorum, Kaliteli olsun, Hızlı Bassın diyorsanız bu ikisi birbirine ters paralel isteklerdir :) Hız arttıkça baskı kaliteniz düşecektir. Bunu eşit şekilde yükseltmek için öncelikle çin malzemelerinden uzak duracaksınız. 2 TL lik lineer rulman ile, 5 TL lik mil, 6 TL lik kayış ve 25 TL lik motor ile alacağınız performans ancak bu kadar olur. Daha kaliteli bir 3D Printer yapmak istiyorsanız, gerçekten kullanacağınız malzemeler de kaliteli olmalı ki bu da doğal olarak cihaz maliyetinizi arttıran bir şey. Şöyle düşünün; 15.000 TL lik şahin mi yoksa 150.000 TL lik audi mi :)

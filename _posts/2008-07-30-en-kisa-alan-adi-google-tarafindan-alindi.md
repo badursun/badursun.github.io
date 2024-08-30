@@ -4,6 +4,7 @@ title: "En Kısa Alan Adı Google Tarafından Alındı"
 date: 2008-07-30 22:35
 categories: ["Teknoloji"]
 tags: ["google", "domain", "alan-adi"]
+toc: true
 ---
 
 Valleywag da yayınlanan habere göre Google Çinli kullanıcıların Google’a daha kolay ulaşabilmesi için ek kısa alan adını satın aldı: **g.cn**

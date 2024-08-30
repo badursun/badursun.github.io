@@ -4,9 +4,10 @@ title: "jQuery DataTables Ajax URL Too Long Hatası ve Çözümü"
 date: 2019-06-29 11:10
 categories: ["Yazılım", "jQuery"]
 tags: ["jquery", "javascript", "datatables"]
+toc: true
 ---
 
-Mini kurabiye :)
+**Mini kurabiye**
 
 DataTables'ın jQuery DataTable pluginini server-side yani ajax ile kullanıyorsanız, tablonuzda ki veri aralığı çoğaldıkça ajax processinin parametreleri POST methodu yerine GET methodu ile gönderdiğini göreceksiniz, default olarak bu da IIS tarafında QueryString limitine takılacaktır. Buna çözüm için javascript kodunuzu aşağıda ki gibi düzeltmeniz yeterli olacaktır.
 

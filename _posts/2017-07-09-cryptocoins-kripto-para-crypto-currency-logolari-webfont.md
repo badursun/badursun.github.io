@@ -4,6 +4,7 @@ title: "Cryptocoins - Kripto Para / Crypto Currency Logoları (WebFont)"
 date: 2017-07-09 15:48
 categories: ["Yazılım"]
 tags: ["cryptocoin", "webfont"]
+toc: true
 ---
 
 Cryptocoins Kripto para dünyasına adım atmayan kalmadı. Mining yapmaktan tutun, borsada hareke etmeye, periyodik belirli miktarlarda alıp, cüzdanında saklamaya kadar herkes kıyısından köşesiniden crypto currency / kripto para dünyasına giriş yaptı. Bugün bir cafe'de otururken kısa sürede bu muhabbetleri yapan bir çok insana rastlayabilirsiniz. 

@@ -4,6 +4,7 @@ title: "Bazen Siyah Beyaz Ağlar İnsan"
 date: 2017-01-25 20:06
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["yesilcam", "nubar-terziyan", "ayhan-isik", "hikaye"]
+toc: true
 ---
 
 Bu yazıyı Facebook'da okudum, hikayesi oldukça ilgi çekiciydi. Bu sebeple blogumda da bulunup, hayat arşivimin içinde yer almasını istedim.

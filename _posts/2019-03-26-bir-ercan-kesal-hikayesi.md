@@ -4,6 +4,7 @@ title: "Bir Ercan Kesal Hikayesi"
 date: 2019-03-26 09:25
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["ercan-kesal", "hikaye"]
+toc: true
 ---
 
 Galiba sekiz dokuz yaşlarındaydım. Bir Orta Anadolu kasabasında büyüyordum. Babam gazozcuydu. Bir gün tüm kasaba çarşı meydanındaki kahvenin önünde toplandı. Her gün kapısının önüne gazoz bıraktığım kahvenin sahibi, yaşlı hoş sohbet amca yanında çırak olarak çalışan, benim yaşlarımda esmer yetim bir çocuğa, İhsan’a iki yıldır tecavüz ediyormuş. Çocuğun bu durumunu, kasabaya yeni tayin olmuş, nüfus müdürlüğündeki memur fark etmiş ve iş onun gayretiyle açığa çıkmış.

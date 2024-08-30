@@ -4,6 +4,7 @@ title: "Erkek Olmak İyidir"
 date: 2010-06-08 17:40
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["erkek-olmak", "hikaye"]
+toc: true
 ---
 
 **Erkek olmak iyidir**. Tabiki de iyidir.. Yani sadece başlıkta belirttiğim gibi, siz hiç "Erkek Hastalıkları Uzmanı" diye bir kavram duydunuz mu? Yok çünkü erkeklerin ne idüğü belirsiz hastalıkları olmaz. Kas ağrısı çeker, sırt ağırısı çeker çok extreme durumlarda prostat olurlar. Bu lafı yıllar önce abimden duymuştum çok hoşuma gitmişti. "Erkek olmak iyidir Sen hiç 'Erkek Hastalıkları Uzmanı' diye bir kavram duydun mu?" Hakikaten de öyle. Erkek olmak iyidir...

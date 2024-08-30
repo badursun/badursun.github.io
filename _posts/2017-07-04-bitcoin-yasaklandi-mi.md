@@ -4,6 +4,7 @@ title: "Bitcoin Yasaklandı mı?"
 date: 2017-07-04 14:41
 categories: ["Teknoloji", "Blockchain"]
 tags: ["bitcoin", "satoshi", "pizza", "bitcoin pizza"]
+toc: true
 ---
 
 Sanıyorum en çarpıcı başlık, "Bitcoin Yasaklandı" çünkü bu sabah çıkan bir haber ile herkes bu soruyu sormaya başladı. Başlık şöyle; "Son Dakika: **O sitelere girenlere ağır cezalar verilecek!**"

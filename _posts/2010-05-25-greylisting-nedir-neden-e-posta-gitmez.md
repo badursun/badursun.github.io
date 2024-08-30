@@ -4,6 +4,7 @@ title: "Greylisting Nedir? Neden E-Posta Gitmez?"
 date: 2010-05-25 22:47
 categories: ["Yazılım", "DevOps"]
 tags: ["mail-server", "mail-enable", "spf", "dkim", "dmarc", "email-setup", "email-server", "mta", "greylisting", "rfc-2821", "spam", "smtp", "gmaili", "qmail", "triplet", "rejected-mail"]
+toc: true
 ---
 
 Greylisting, enteresan ve efektif bir spam ile başetme metodudur. Bu metod, gönderilen her bir mailin source ip’sini, gonderen e-mail adresini ve alıcı e-mail adresini kontrol ediyor (Bu üç bilgiye triplet deniyor). Eğer gönderilen bir maile ait bu üç bilgi daha önce rastlanılmamış bir triplet ise "geçici olarak servis dışı"ymış gibi davranarak ilgili maili reject ediyor ve "Daha sonra tekrar deneyiniz" şeklinde bir hata mesajı gönderiyor.

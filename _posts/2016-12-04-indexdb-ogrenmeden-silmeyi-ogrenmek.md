@@ -4,6 +4,7 @@ title: "IndexDB Öğrenmeden, Silmeyi Öğrenmek"
 date: 2016-12-04 11:29
 categories: ["Yazılım", "Javascript"]
 tags: ["web-api", "javascript", "database", "local-storage", "web-storage", "indexdb"]
+toc: true
 ---
 
 Herşeyi baştan anlatmayı çok sevmiyorum, kötü bir huy fakat ihtiyacınız olduğunda aradığınız tek örneğe denk gelmek güzeldir diye düşündüğüm için bu şekilde bir çanta olması için Kod Bankası bölümünü oluşturdum. IndexDB nedir, ne işe yarar, nasıl çalışır kısaca anlatalım ve ilk örneğimizi verelim; IndexDB den kayıt silmek.

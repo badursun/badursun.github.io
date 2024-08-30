@@ -4,6 +4,7 @@ title: "Windows Sunucuda SMF Forum ve Pretty URLs"
 date: 2015-12-14 09:54
 categories: ["Yazılım", "Windows Server"]
 tags: ["windows", "smf forum", "pretty url", "plugin"]
+toc: true
 ---
 
 SMF Forum ile birlikte Pretty URLs eklentisini windows sunucu üzerinde çalıþtırmak istiyorsanız apache rule´larının çalıştırmadığını ve sistemin hata verdiğini göreceksiniz. Bunu çözümlemek aslında çok kolay fakat biraz profesyonel bilgi gerektiriyor.

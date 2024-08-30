@@ -4,6 +4,7 @@ title: "Sosyal Medya ve Sosyal Medyanın Gücü"
 date: 2010-07-03 09:54
 categories: ["Teknoloji", "Sosyal Medya"]
 tags: ["facebook", "eksi sozluk", "yeni raki"]
+toc: true
 ---
 
 Her gün artan sayısıyla Türkiye de şu anda yaklaşık 27 milyon internet kullanıcısı var. Bundan 3 sene önce "internet insanları asosyal yapıyor, içine kapanık bir hale getiriyor" denirken bu gün internet, insanlara inanılmaz bir güç katıyor. En ufak bir örnek vermek gerekirse, doğru platform ve doğru iletişim ile bugün bir firmayı yükseltmek yada tam aksine yerin dibine sokmak bile mümkün. Aynı şekilde bir ürünü tanıtmak, pazarlamak, ürün ile ilgili bilgi toplamak da yine sosyal medya içinde mümkündür. Üstelik binlerce liralık yatırım yaparak belli başlı büyük reklam firmalarına gitmenize de gerek yok.

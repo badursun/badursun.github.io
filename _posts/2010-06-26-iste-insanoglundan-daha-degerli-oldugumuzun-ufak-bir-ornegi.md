@@ -4,6 +4,7 @@ title: "İşte İnsanoğlundan Daha Değerli Olduğumuzun Ufak Bir Örneği"
 date: 2010-06-26 14:15
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["insan", "hayvanlar", "dostluk"]
+toc: true
 ---
 
 İşte insanoğlundan daha değerli olduğunuzun ufak bir örneği. Gerçekten de hayvan dediğiniz o dostlar bence insandan daha vefalı daha değerli.. Halbuki ne kadar çok kızarız birisi bir başka insanı köpek gibi sevdiğinde. Halbuki ne kadar güzel, çünkü o köpek dediğiniz dostlarımızın insandan sadece biraz eksik yönleri olmasına rağmen, bizlerden çok daha fazla sevgi, itimat, sadakat ve güvene sahipler.

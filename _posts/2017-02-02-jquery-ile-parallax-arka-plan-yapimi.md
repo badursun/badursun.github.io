@@ -4,6 +4,7 @@ title: "jQuery ile Parallax Arka Plan Yapımı"
 date: 2017-02-02 09:57
 categories: ["Yazılım", "jQuery"]
 tags: ["jquery", "javascript", "parallax", "css", "html"]
+toc: true
 ---
 
 Bir çok web sitesinde Parallax (hareketli arka plan) kullanıldığını görmüşsünüzdür. Hatta "hangi plugin bu acaba" dediğiniz de olmuştur. Veya kendinize uygun hazır bir kod bulamamış olabilirsiniz. Sorun yok, jQuery size yeter. Her zaman dediğim gibi, iyi bir programcı olmak; hazır kodları iyi kullanmayı bilmek değildir. Ortaya çıkan sonucun nasıl yapıldığını algoritmik olarak çözümleyebilmektir. Yani bir ATM makinası gördüğünüzde, o process'lerin nasıl yapıldığını kafanızda canlandırabiliyorsanız, o zaman gelişme var demektir.

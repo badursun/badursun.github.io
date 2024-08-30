@@ -4,6 +4,7 @@ title: "Dijital Dolandırıcılıklar Üzerine Sohbet..."
 date: 2017-10-09 23:17
 categories: ["Teknoloji", "Blockchain"]
 tags: ["bitcoin", "bitcoin-gold", "btg", "crypto-currency", "blog"]
+toc: true
 ---
 
 Uzun zamandır bloguma çok verimli yazılar yazamadım. Plan defterimde 7-8 konu beni bekliyor mutlaka yazacağım ama bugün yeni fark ettiğim bir mesaja istinaden hızlı bir yazı yazma gereği duydum.

@@ -4,6 +4,7 @@ title: "Red Alert 2 Windows 7 ve Windows 8 de oynamak"
 date: 2014-02-23 21:52
 categories: ["Teknoloji"]
 tags: ["red-alert-2", "windows-7", "windows-8", "winsocks32", "ipx", "spx"]
+toc: true
 ---
 
 Eski oyunlardan vazgeçemeyenler için yeni işletim sistemlerinin çıkması her zaman bir korku olmuştur. Ne yazık ki Windows Vista’da (ben SP1 üzerinde denedim) Red Alert 2 oyununda ve Yuri’s Revenge eklenti paketinde Network seçeneğini seçtiğinizde oyun ana menüye dönüyor ve çok oyunculu oynayamıyoruz.

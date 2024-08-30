@@ -4,6 +4,7 @@ title: "Klasik ASP ve Bellek Yönetimi (Classic ASP and Memory Management)"
 date: 2019-04-05 11:31
 categories: ["Yazılım", "Classic Asp"]
 tags: ["classic asp", "asp", "memory management"]
+toc: true
 ---
 
 Baştan söylemeliyim, detaylı ve uzun bir yazı olacak. Bu yazıyı yazmamda ki sebep; son bir kaç hafta içerisinde farklı insanlar ile Klasik ASP üzerine uzun sohbetler yaptık. Asla gelenekselci bir kafada değilim, Klasik ASP iyidir demiyorum ama kötüdür de diyemem. Çünkü bir yazılımı başarılı ve performanslı kılan, onun mimarı ve mimarın teknikleridir.

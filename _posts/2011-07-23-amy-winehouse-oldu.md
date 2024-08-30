@@ -4,6 +4,7 @@ title: "Amy Winehouse Öldü"
 date: 2011-07-23 13:12
 categories: ["Hayata Dair","Olaylar Falan"]
 tags: ["amy winehouse"]
+toc: true
 ---
 
 Ünlü ingiliz kadın vokal Amy Winehouse Londra´daki evinde ölü bulundu. İngiliz polisi Winehouse´un öldüğünü doğruladı.

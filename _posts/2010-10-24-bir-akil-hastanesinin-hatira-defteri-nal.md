@@ -4,6 +4,7 @@ title: "Bir Akıl Hastanesinin Hatıra Defteri, Nal"
 date: 2010-10-24 19:25
 categories: ["Hayata Dair","Kitap"]
 tags: ["cemal dindar", "nal", "kitap"]
+toc: true
 ---
 
 ![Bir Akıl Hastanesinin Hatıra Defteri, Nal](assets/img/2010-10-24-bir-akil-hastanesinin-hatira-defteri-nal.jpg)

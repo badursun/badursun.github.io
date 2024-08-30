@@ -4,9 +4,10 @@ title: "GODZİLLA: CANAVARLAR KRALI"
 date: 2019-04-16 09:32
 categories: ["Hayata Dair", "Film - Dizi - Sinema"]
 tags: ["godzilla", "film", "vizyon", "war-dogs", "hbo", "warner-bros"]
+toc: true
 ---
 
-<strong>"GOZDILLA: FING OF THE MONSTERS"</strong>
+## GOZDILLA: FING OF THE MONSTERS
 
 Warner Bros. Pictures ve Legendary Pictures, yarattıkları sinematik Canavar Evreninin parçası olan "Godzilla" ve "Kong: Skull Island"ın küresel başarısının ardından, bu kez Godzilla’yı popüler kültür tarihinin en bilinen bazı canavarlarıyla karşı karşıya getiren destansı aksiyon macera "Godzilla: Canavarlar Kralı/Godzilla: King of the Monsters"a imza attılar.
 

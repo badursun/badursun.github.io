@@ -4,6 +4,7 @@ title: "MacOS DNS cache Temizlemek"
 date: 2017-09-28 18:15
 categories: ["Yazılım", "MacOS"]
 tags: ["macos", "dns", "dns-cache", "mdnsresponder"]
+toc: true
 ---
 
 Bir apple MacOS kullanıyorsanız ve DNS Cache sorunu yaşıyorsanız terminal ekranını çalıştırıp aşağıda sürümünüze uygun terminal komutunu girerek DNS Cache temizliği yapabilirsiniz. Bu işlemi tamamlamak için sizden mac parolanız istenecektir. Ekranda parolanızı yazarken hiç bir hareketlilik olmayacak, yani parolanızı doğru yazdınıza emin olun.

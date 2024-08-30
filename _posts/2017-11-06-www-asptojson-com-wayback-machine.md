@@ -4,6 +4,7 @@ title: "www.asptojson.com wayback machine"
 date: 2017-11-06 10:52
 categories: ["Yazılım", "Classic Asp"]
 tags: ["json", "classic-asp-json-parse", "asp", "aspjson", "fonksiyonlar", "functions"]
+toc: true
 ---
 
 ASPJSON is a free to use project for generating and reading JSON data into a classic ASP object. The class can be used for reading a string of JSON data as well as writing JSON output from an AJAX file. Below are 2 simple examples of both.

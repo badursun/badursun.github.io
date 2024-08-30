@@ -4,6 +4,7 @@ title: "Aslında Hepimizin İçinde Var Bir İvedik"
 date: 2010-06-13 15:00
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["recep-ivedik", "blog"]
+toc: true
 ---
 
 Düşünüyorsunuz şimdi ivedik ne alaka. Acaba ivediyelik mi diye sormuşta olabilirsiniz kendinize. Aslında bahsettiğim ivedik hepimizin tanıdığı Recep ıvedik. Türk halkı tarafından sevilen, nefret edilen, benimsenen ve dışlanan karakter. Benim tarafımdan sevilen ve benimsenen bir karakter çünkü hiç yabancı değil. Yani şu anda kapı çalsa ve Recep ivedik gelse 40 yıllık dostummuş gibi karşılarım.

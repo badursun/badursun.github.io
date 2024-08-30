@@ -4,6 +4,7 @@ title: "Stephen King'den Doktor Uyku 22 Kasımda Sinemada!"
 date: 2019-11-09 22:00
 categories: ["Hayata Dair", "Film - Dizi - Sinema"]
 tags: ["stephen king", "film", "vizyon", "sinema"]
+toc: true
 ---
 
 ## GERİ DÖNMEYE CESARET ET

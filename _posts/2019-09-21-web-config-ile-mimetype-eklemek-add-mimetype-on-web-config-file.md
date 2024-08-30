@@ -4,6 +4,7 @@ title: "web.config ile MimeType Eklemek"
 date: 2019-09-21 13:46
 categories: ["Yazılım","Windows Server"]
 tags: ["windows", "asp", "mimetype", "webconfig", "classic-asp"]
+toc: true
 ---
 
 Bazen sunucuya tam erişim hakkınız olmaz ve mimetype eklemeniz gerekir. Bu durumda yapmanız gereken şey **web.config** dosyanız üzerinden mimetype tanımlamaktır.

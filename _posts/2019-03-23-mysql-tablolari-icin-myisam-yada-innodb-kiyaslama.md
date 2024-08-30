@@ -4,6 +4,7 @@ title: "MySQL tabloları için MyISAM yada InnoDB Kıyaslama"
 date: 2019-03-23 16:33
 categories: ["Yazılım", "Database"]
 tags: ["mysql", "myisam", "innodb", "database-engine"]
+toc: true
 ---
 
 # MyISAM ve InnoDB Arasındaki Farklar

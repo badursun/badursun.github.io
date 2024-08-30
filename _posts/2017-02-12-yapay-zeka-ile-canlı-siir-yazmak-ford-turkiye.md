@@ -4,6 +4,7 @@ title: "Yapay Zeka ile Canlı Şiir Yazmak - Ford Türkiye"
 date: 2017-02-12 15:46
 categories: ["Yazılım", "AI"]
 tags: ["ai", "yapay zeka", "ford"]
+toc: true
 ---
 
 En sevdiğim, uzun zamandır kafa patlattığım bir konu Yapay Zeka. İşim gereği sosyal medya ve dijital dünya ile fazla bağlıyım, bağımlıyım. Gömülü sistemleri de seviyorum ve bu iki teknolojiyi hep bir kampanyada kullanmak istemişimdir. İşte Ford bunu Sevgililer Günü için uyarlamış. Başlangıç için oldukça iyi bir proje olmuş.

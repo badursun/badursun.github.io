@@ -4,6 +4,7 @@ title: "Ayı Yogi (Yogi Bear) Filmi 21 Ocak'ta Vizyonda"
 date: 2011-01-17 16:01
 categories: ["Hayata Dair", "Film - Dizi - Sinema"]
 tags: ["ayi-yogi", "film", "vizyon", "yogi-bear", "jellystone"]
+toc: true
 ---
 
 3 boyutlu çekilen, gerçek oyuncularla bilgisayar animasyonunu bir araya getiren "Yogi Bear / Ayı Yogi herkesin en sevdiği piknik sepeti hırsızı ayıyı yepyeni bir macerayla beyazperdeye taşıyor.

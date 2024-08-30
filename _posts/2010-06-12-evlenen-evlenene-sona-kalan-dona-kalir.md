@@ -4,6 +4,7 @@ title: "Evlenen Evlenene, Sona Kalan Dona Kalır"
 date: 2010-06-12 23:22
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["evlilik", "blog"]
+toc: true
 ---
 
 Evlenen evlenene.. Daha dün 15-16 yaşında olduğum günleri hatırlıyorum. Üstelik evlenen arkadaşlarımın da o yaşlarda ki günlerini hatırlıyorum.. Yaşlandım mı yaşlanmadım mı yoksa ben bu serüvenin içinde geçmi kaldım karar veremedim bir türlü. Bundan yıllar önce, daha dün gibi, dertlerimiz bambaşkaydı. Eskiden cebimizde 10 liramız varsa bir plastik top alabilirdik veya bir kutu kola ile kurcalayıp da içinden çok taso çıkacağını umduğumuz çitos çerezler... Gece uykusuzluklarımız yoktu, sabaha yetiştirmek zorunda olduğumuz işler, projeler nedeniyle. Annemizden fırçayı yer uyurduk, sabaha devam edecek yarım kalmış işlerin endişesi olmadan.

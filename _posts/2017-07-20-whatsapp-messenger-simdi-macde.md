@@ -4,6 +4,7 @@ title: "Whatsapp Messenger Şimdi Mac'de"
 date: 2017-07-20 10:32
 categories: ["Yazılım", "MacOS"]
 tags: ["macos", "whatsapp", "app"]
+toc: true
 ---
 
 Akıllı telefonların yaygınlaşması ile mesajlaşma uygulamaları da artmaya başladı. Bunlardan WhatsApp öyle tuttu ki geçtiğimiz yıllarda bir çok ülkede en çok indirilen iPhone ve Android uygulaması oldu. İnternet üzerinden karşılıklı mesajlaşma ve dosya gönderebilme programı olan WhatsApp, GSM operatörlerine ödediğimiz kısa mesaj ücretlerini azaltmanın en güzel yollarından biri.
