@@ -11,9 +11,9 @@ Bugünden sonra küçük bir kız çocuğu gibi günlük tutmaya karar verdim.
 
 Bunun en açık ara sebebi aslında, jekyll ve git üzerinde bu bloğu koşturmaya başladığımdan beri fark ettim ki, uzun soluklu bir blog olabilir.
 
-- [Geçmişe Not](/categories/gecmise-not/)
-- [Güne Not](/categories/gune-not/)
-- [Geleceğe Not](/categories/gelecege-not/)
+- Geçmişe Not
+- Güne Not
+- Geleceğe Not
 
 olarak 3 alt başlıkta yediğim hemen hemen her haltı buraya aktarmaya çalışıcam. Tabii bir arayüz de hazırlayıp, yazı yazmayı kolaylaştırabilirsem, bu içeriği daha sıkı girebilirim.
 
