@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Artık `Günün Günlüğü` var!"
+title: "Artık Günün Günlüğü var!"
 date: 2008-07-30 22:35
-categories: ["Gunun Gunlugu"]
+categories: ["Gunluk"]
 tags: ["gunluk", "blog"]
 toc: true
 ---
