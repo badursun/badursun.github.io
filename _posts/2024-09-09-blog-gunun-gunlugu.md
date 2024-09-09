@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "En Kısa Alan Adı Google Tarafından Alındı"
-date: 2008-07-30 22:35
+title: "Güne Not: 9 Ağustos 2024"
+date: 2024-09-09 15:02
 categories: ["Gunluk", "Gune Not"]
 tags: ["gunluk", "blog", "true-loss", "nodejs", "railway"]
 toc: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Artık Günün Günlüğü var!"
-date: 2008-07-30 22:35
+date: 2024-09-06 17:40
 categories: ["Gunluk"]
 tags: ["gunluk", "blog"]
 toc: true
