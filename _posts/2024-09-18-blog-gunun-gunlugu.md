@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Geçmişe Not: 18 Ağustos 2024"
+title: Geçmişe Not: 18 Ağustos 2024
 date: 2024-09-18 20:00
 categories: ["Gunluk", "Gecmise Not"]
 tags: ["gunluk", "blog", "true-loss", "rabbitcms", "jquery", "tag-manager", "facebook-meta", "meta-pixel"]
