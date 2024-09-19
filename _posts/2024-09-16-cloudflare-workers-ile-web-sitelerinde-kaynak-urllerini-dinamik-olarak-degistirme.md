@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cloudflare Workers ile Web Sitelerinde Kaynak URL'lerini Dinamik Olarak Değiştirme"
+title: "Cloudflare Workers ile Web Sitelerinde Kaynak URLlerini Dinamik Olarak Değiştirme"
 date: 2024-09-16 11:37
 categories: ["Yazılım", "DevOps"]
 tags: ["cloudflare", "workers", "serverless", "javascript", "dns-router", "edge-compute"]
