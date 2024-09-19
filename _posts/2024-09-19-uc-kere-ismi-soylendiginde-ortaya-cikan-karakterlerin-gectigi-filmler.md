@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Üç Kere İsmi Söylendiğinde Ortaya Çıkan Karakterlerin Geçtiği Filmler
+title: Üç Kere Söyle ve Korkuyla Yüzleş: Sinemanın En Ürpertici Çağrıları
 date: 2024-09-19 15:16
 categories: ["Hayata Dair", "Film - Dizi - Sinema"]
 tags: ["korku-filmleri", "film", "vizyon", "sinema"]
