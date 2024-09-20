@@ -5,6 +5,9 @@ date: 2024-09-10 20:00
 categories: ["Gunluk", "Gune Not"]
 tags: ["gunluk", "blog", "true-loss", "nodejs", "railway"]
 toc: true
+image:
+  path: "/assets/img/gunluk.jpg"
+  alt: "Günlük"
 ---
 
 

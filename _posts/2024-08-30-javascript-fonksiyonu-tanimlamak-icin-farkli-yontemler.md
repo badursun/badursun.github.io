@@ -5,6 +5,9 @@ date: 2024-08-30 14:47
 categories: ["Yazılım", "Javascript"]
 tags: ["iife", "arrow-function", "function", "javascript", "es6", "ecma-script"]
 toc: true
+image:
+  path: "/assets/img/javascript.jpg"
+  alt: "Javascript"
 ---
 
 # Bir fonksiyonun anatomisi

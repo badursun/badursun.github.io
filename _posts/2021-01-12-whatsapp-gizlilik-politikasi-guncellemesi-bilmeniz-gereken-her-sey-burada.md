@@ -5,6 +5,9 @@ date: 2021-01-12 08:46:00
 categories: ["Teknoloji", "Veri Güvenliği"]
 tags: ["coverme", "whatsapp", "privacy"]
 toc: true
+image:
+  path: "/assets/img/whatsapp-privacy-policy.jpg"
+  alt: "Javascript"
 ---
 
 Yeni güncellenmiş WhatsApp Gizlilik Politikası 8 Şubat 2021’de yürürlüğe girecek. Bunların çoğu veri toplama için detaylandırma ve gerekçelendirme olsa da, satırlar arasında çok şey oluyor. Yeni WhatsApp Gizlilik Politikası, platformun Facebook’unki de dahil olmak üzere üçüncü taraf entegrasyonuyla nasıl davrandığına odaklanıyor.

@@ -5,6 +5,9 @@ date: 2021-01-04 11:56
 categories: ["Teknoloji", "Veri Güvenliği"]
 tags: ["google", "search engine", "privacy"]
 toc: true
+image:
+  path: "/assets/img/google-your-data.jpg"
+  alt: "Javascript"
 ---
 
 Bizi bizden daha iyi tanıyan Google, verilerimizin çoğunu hedefli reklamcılık için kullanıyor. Belki de kullanmıyor, yerine göre kullanmadığını söylüyor, bundan asla emin olamayız ama yine de kullanıyoruz.

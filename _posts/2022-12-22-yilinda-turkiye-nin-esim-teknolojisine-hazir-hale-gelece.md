@@ -5,12 +5,15 @@ date: 2022-12-22 09:30
 categories: ["Teknoloji", "Son Gelismeler"]
 tags: ["esim", "btk", "teknoloji"]
 toc: true
+image:
+  path: "/assets/img/esim-technology.jpg"
+  alt: "Javascript"
 ---
+
+BTK Başkanı Ömer Abdullah Karagözoğlu, 2020 yılında Türkiye’nin eSIM teknolojisine hazır hale geleceğini açıkladı.
 
 ![2020 yılında Türkiye’nin eSIM teknolojisine hazır hale gelecek](assets/img/2022-12-22-yilinda-turkiye-nin-esim-teknolojisine-hazir-hale-gelece.jpg)
 _Image Caption_
-
-BTK Başkanı Ömer Abdullah Karagözoğlu, 2020 yılında Türkiye’nin eSIM teknolojisine hazır hale geleceğini açıkladı.
 
 ## Türkiye'de eSIM Kullanımı
 ’Haftasonu Teknoloji Zirvesi’nde konuşan BTK Başkanı Ömer Abdullah Karagözoğlu; 

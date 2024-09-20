@@ -5,6 +5,9 @@ date: 2024-09-18 20:00
 categories: ["Gunluk", "Gecmise Not"]
 tags: ["gunluk", "blog", "true-loss", "rabbitcms", "jquery", "tag-manager", "facebook-meta", "meta-pixel"]
 toc: true
+image:
+  path: "/assets/img/gunluk.jpg"
+  alt: "Günlük"
 ---
 
 Bir kaç gündür günlük yazmadım. Dolayısıyla Güne Not değil, Geçmişe Not olarak ilk yazımı yazma fırsatım oldu.

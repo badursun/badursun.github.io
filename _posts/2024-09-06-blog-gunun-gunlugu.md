@@ -5,6 +5,9 @@ date: 2024-09-06 17:40
 categories: ["Gunluk"]
 tags: ["gunluk", "blog"]
 toc: true
+image:
+  path: "/assets/img/gunluk.jpg"
+  alt: "Günlük"
 ---
 
 Bugünden sonra küçük bir kız çocuğu gibi günlük tutmaya karar verdim.

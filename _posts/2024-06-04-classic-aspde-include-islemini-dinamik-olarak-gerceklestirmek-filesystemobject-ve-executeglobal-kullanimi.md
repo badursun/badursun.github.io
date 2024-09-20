@@ -5,6 +5,9 @@ date: 2024-06-04 11:29
 categories: ["Yazılım", "Classic Asp"]
 tags: ["dynamic-include", "classic-asp", "asp", "executeglobal"]
 toc: true
+image:
+  path: "/assets/img/asp.jpg"
+  alt: "Javascript"
 ---
 
 # Classic ASP'de Include İşlemini Dinamik Olarak Gerçekleştirmek: FileSystemObject ve ExecuteGlobal Kullanımı

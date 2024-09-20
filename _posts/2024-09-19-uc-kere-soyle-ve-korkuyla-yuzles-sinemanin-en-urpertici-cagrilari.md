@@ -5,6 +5,9 @@ date: 2024-09-19 15:16
 categories: ["Hayata Dair", "Film - Dizi - Sinema"]
 tags: ["korku-filmleri", "film", "vizyon", "sinema"]
 toc: true
+image:
+  path: "/assets/img/beetlejuice.jpg"
+  alt: "Üç Kere Söyle ve Korkuyla Yüzleş: Sinemanın En Ürpertici Çağrıları"
 ---
 
 ## Üç Kere İsmi Söylendiğinde Hayatımıza Giren Korku Karakterleri

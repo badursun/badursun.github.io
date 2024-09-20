@@ -5,6 +5,9 @@ date: 2024-09-13 14:39
 categories: ["Yazılım", "Classic Asp"]
 tags: ["asp", "function", "spam"]
 toc: true
+image:
+  path: "/assets/img/classic-asp-ve-spam-ile-mucade.jpg"
+  alt: "Classic ASP ve Spam ile Mücadele"
 ---
 
 Günümüzde spam bot'ları web sitelerini hedef alarak çeşitli saldırılar gerçekleştiriyor. Özellikle e-posta adreslerini ve diğer kişisel bilgileri toplamak için kullanılan register formlarında bu saldırılar daha sık görülüyor. Spam'cılar, bu formlara manipüle edilmiş veriler girerek, sistemleri kötüye kullanabiliyor ve hedef e-posta adreslerine spam e-postalar gönderebiliyor. Bu tür saldırılara karşı koruma sağlamak, özellikle güvenlik açıklarını kapatmak adına kritik önem taşıyor.
@@ -12,21 +15,19 @@ Günümüzde spam bot'ları web sitelerini hedef alarak çeşitli saldırılar g
 ## Sorun ve Çözüm
 Son birkaç gün içinde, sistemlerimde yaşadığım bir olay, bu tür saldırıların ne kadar yaygın olduğunu ve ne tür etkiler yaratabileceğini gösterdi. Sunucularıma ait veri merkezi (DC) firması, IP adresimden gelen yüksek bir şikayet oranı nedeniyle uyarı e-postası gönderdi. 
 
-```html
-Date: Fri, Sep 13, 2024 at 11:31 AM
-Subject: [*****umine #23***2] High SNDS complaint rate on your IP ***.**.****.102
-To: John Doe <info@my-company.mail>
-Cc: <badursun@gmail.com>
+    Date: Fri, Sep 13, 2024 at 11:31 AM
+    Subject: [*****umine #23***2] High SNDS complaint rate on your IP ***.**.****.102
+    To: John Doe <info[a]my-company.mail>
+    Cc: <ba****un[a]gmail.com>
 
 
-Subject: High SNDS complaint rate on your IP ***.**.****.102
- Hello!
+    Subject: High SNDS complaint rate on your IP ***.**.****.102
+     Hello!
 
-We have been notified by SNDS that your IP ***.**.****.102 has been sending out email traffic with a complaint rate of 11%, which is very frowned upon. A note on the report listing also mentions the following: "Abuse reported for: noreply@your-domain.com".  Please take action to stop this harmful activity.
+    We have been notified by SNDS that your IP ***.**.****.102 has been sending out email traffic with a complaint rate of 11%, which is very frowned upon. A note on the report listing also mentions the following: "Abuse reported for: noreply[a]your-domain.com".  Please take action to stop this harmful activity.
 
-Lugupidamisega / Best regards / С уважением,
-A******* T******
-```
+    Lugupidamisega / Best regards / С уважением,
+    A******* T******
 
 Gönderilen e-postada, e-posta trafiğiyle ilgili bir şikayet oranının yüksek olduğu ve kötüye kullanım raporunun bulunduğu belirtiliyordu. Bu, spam saldırılarının etkili bir şekilde nasıl gizlenebileceğinin ve ne tür sonuçlar doğurabileceğinin bir örneğiydi.
 

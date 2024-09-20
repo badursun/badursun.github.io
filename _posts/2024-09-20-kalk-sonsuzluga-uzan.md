@@ -5,12 +5,12 @@ date: 2024-09-20 10:16
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["lazarus", "lazarus-refleksi", "anatomi"]
 toc: true
+image:
+  path: "/assets/img/lazarus-sign.jpg"
+  alt: "Kalk, Sonsuzluğa Uzan"
 ---
 
 ## Lazarus’un Gizemli Dirilişi: Ölümden Sonra Yaşam Mı, Sadece Bir Refleks Mi?
-
-![Lazarus refleksi](/assets/img/lazarus-sign.jpg)
-
 Ölüm, insanoğlunun en büyük gizemlerinden biri olarak her zaman merak ve korku uyandırmıştır. Tarih boyunca her kültür ve inanç sistemi, ölümün doğası ve sonrasındaki bilinmezlik üzerine farklı hikayeler ve inançlar geliştirmiştir. Ölümle ilgili en şaşırtıcı fenomenlerden biri ise tıp dünyasında "Lazarus refleksi" olarak bilinen ve beyin ölümü gerçekleşmiş insanlarda gözlemlenen bir vücut hareketidir. Peki, gerçekten bir diriliş mi söz konusu, yoksa bu sadece bir biyolojik yanılsama mı?
 
 ## Lazarus Refleksi Nedir?

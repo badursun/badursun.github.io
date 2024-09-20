@@ -29,7 +29,7 @@ github:
   username: badursun # change to your github username
 
 twitter:
-  username: badursun # change to your twitter username
+  username: # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: badursun@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/badursun # change to your twitter homepage
+    # https://twitter.com/badursun # change to your twitter homepage
     - https://github.com/badursun # change to your github homepage
     # Uncomment below to add more social links
     # - https://instagram.com/badursun # change to your github homepage
@@ -146,7 +146,7 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
-paginate: 10
+paginate: 15
 
 # The base URL of your site
 baseurl: ""

@@ -5,6 +5,9 @@ date: 2024-06-08 12:42
 categories: ["Yazılım", "Classic Asp"]
 tags: ["base64", "classic-asp", "asp", "validate", "functions", "fonksiyonlar", "regex"]
 toc: true
+image:
+  path: "/assets/img/asp.jpg"
+  alt: "Javascript"
 ---
 
 Bazen Classic ASP dilinde basit işlemleri yapmak zorlaşabiliyor fakat yazılımcı birisi her zaman bir yol bulur. Bu noktada önemli olan yegane şey, en performanslı yolu bulmak.

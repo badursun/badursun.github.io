@@ -5,15 +5,18 @@ date: 2021-10-22 12:04:00
 categories: ["Yazılım","Windows Server"]
 tags: ["windows", "asp", "cors", "webconfig", "classic-asp"]
 toc: true
+image:
+  path: "/assets/img/windows-cors-policy.jpg"
+  alt: "Javascript"
 ---
-
-![Windows Server Classic ASP CORS Policy Problemi Çözümü](/assets/img/2021-10-22-windows-server-classic-asp-cors-policy-problemi-cozumu.png)
 
 Yine hızlı bir çözüm yazısı ile beraberiz. CORS Policy sorunu yüzünden şu yazıyı hepiniz görmüşsünüzdür.
 
 Access to XMLHttpRequest at ‘https://www. xxxxxx’ from origin ‘http://www. xxxxx’ has been blocked by CORS policy: Response to preflight request doesn’t pass access control check: No ‘Access-Control-Allow-Origin’ header is present on the requested resource.
 
 İşte bu sorunun windows server’larda Classic ASP ile çözümü oldukça basit. Tabii konu derinlemesine güvenlik içeriyor fakat özetle bu soruna kısadan bir çözüm yolunu web.config dosyası ile nasıl yaparsınız; işte hazır bir web.config dosyası
+
+![Windows Server Classic ASP CORS Policy Problemi Çözümü](/assets/img/2021-10-22-windows-server-classic-asp-cors-policy-problemi-cozumu.png)
 
 ## web.config Dosyası Güncellemesi
 ```xml
