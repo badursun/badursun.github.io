@@ -5,10 +5,10 @@ date: 2010-08-18 13:25
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["jerry", "secimler", "pozitif-yasam"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/jerry.webp"
+  alt: "OpenAI'nin GPT modeli ile oluşturulmuştur."
 ---
-
-![Jerry](assets/img/jerry.webp)
-_Görsel, OpenAI'nin GPT modeli ile oluşturulmuştur._
 
 Jerry, çevresindekilerin çok sevdiği biriydi. Keyfi her zaman yerindeydi ve her zaman söyleyecek olumlu bir şey bulurdu. Bu, bazen etrafındakileri çıldırtacak kadar ileri giderdi!
 

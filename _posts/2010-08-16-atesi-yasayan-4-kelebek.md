@@ -3,11 +3,12 @@ layout: post
 title: "Ateşi Yaşayan 4 Kelebek"
 date: 2010-08-16 13:31
 categories: ["Hayata Dair","Goygoy yada Ciddi"]
-tags: ["dort-kelebek"]
+tags: ["dort-kelebek", "hikaye"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/fire-butterfly.jpg"
+  alt: "Ateşi Yaşayan 4 Kelebek"
 ---
-
-![Dört kelebek](assets/img/fire-butterfly.jpg)
 
 Dört kelebek, ateşin gerçek sırrına ulaşmaya karar verir.
 

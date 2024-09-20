@@ -6,7 +6,7 @@ categories: ["Teknoloji", "Veri Güvenliği"]
 tags: ["google", "search engine", "privacy"]
 toc: true
 image:
-  path: "/assets/img/google-your-data.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/google-your-data.jpg"
   alt: "Javascript"
 ---
 

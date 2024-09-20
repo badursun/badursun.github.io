@@ -5,6 +5,9 @@ date: 2017-07-04 14:41
 categories: ["Teknoloji", "Blockchain"]
 tags: ["bitcoin", "satoshi", "pizza", "bitcoin pizza"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/bitcoin-8-1024x652-e1499601254538-1024x458.jpg"
+  alt: "Bitcoin Yasaklandı mı?"
 ---
 
 Sanıyorum en çarpıcı başlık, "Bitcoin Yasaklandı" çünkü bu sabah çıkan bir haber ile herkes bu soruyu sormaya başladı. Başlık şöyle; "Son Dakika: **O sitelere girenlere ağır cezalar verilecek!**"
@@ -36,8 +39,6 @@ Bitcoin ülkemizde yasaklanır mı? Sanırım esas soru bu olmalı. Yasaklanmas�
 Bazı bilgileri tazelemekte fayda var. Bitcoin tamamen dijital bir para birimi, ödeme sistemi ve merkezi olmayan bir mutabakat ağıdır. Sistem üzerinde kullanıcılar birbirlerine aracı olmadan doğrudan transferler yapabilir. Transferler, merkezi olmayan dağınık bir kayıt ve mutabakat sistemine kaydedilir. Bu kayıt ve mutabakat sistemine Blockchain adı verilir. Bitcoin ağı üzerinde transfer edilen değer birimi bitcoin (BTC) olarak adlandırılır. Kimsenin e-posta teknolojisine sahip olmadığı gibi, hiçbir kimse ya da kurum da Bitcoin ağına sahip değildir. Temsilcilik, franchise vb. bir oluşum yoktur. Bitcoin bir şirket ya da kurum değildir. Bitcoin açık bir teknolojidir ve herkes herhangi bir engelleme olmadan katılabilir, kullanabilir.
 
 Bitcoin’in değeri BTCTurk, Koinim, Paribu gibi bağımsız Türk piyasaları ve Poloniex, Bittrex gibi yabancı borsalarda arz talep ilişkisi ile belirlenir. Alıcı ve satıcıların emirlerini birbiri ile eşleştiren BTCTurk ve benzeri alım satım platformlarında yapılan işlemlerin bilgileri yayınlanır. Her alım satım platformunda Bitcoin fiyatı bağımsız olarak oluşur. Kullanıcıların yaptığı arbitraj işlemleri, fiyatın piyasalarda birbirine yaklaşmasını sağlar.
-
-![Bitcion](assets/img/bitcoin-8-1024x652-e1499601254538-1024x458.jpg)
 
 ## Bitcoin Ne Kadar Güvenli?
 Bitcoin şifreli bir dijital para birimidir. Bitcoin’in temel teknolojisi açık kaynaklıdır ve herkes tarafından gözlemlenebilir. Günümüze kadar binlerce bağımsız güvenlik uzmanı tarafından kontrol edilen Bitcoin'in temel teknolojisi ile ilgili geçmişte oluşan problemler hızlıca giderilmiştir. Fakat unutmamak gerekir ki Bitcoin halen evrimini sürdürmektedir. Kullandığı algoritmalar gereği gizli anahtarlar, cüzdan adresleri gibi verilerin çözümlenmesi en güçlü sistemlerle bile yüz yıllar sürebilir. En büyük sorunun zararlı yazılımlar olduğunu söylemekte fayda var. Bilgisayarınıza zararlı yazılım ile Bitcoin avına çıkan siber suçlular, ekran kartınızın ömrünü oldukça kısaltabilir, size yol, su, elektrik olarak dönebilir ya da Bitcoin transferi yaparken kendilerini hedef olarak gösterebilecekleri gibi cüzdanınızdaki paranızı çalabilir.

@@ -6,14 +6,14 @@ categories: ["Yazılım", "DevOps"]
 tags: ["cloudflare", "workers", "serverless", "javascript", "dns-router", "edge-compute"]
 toc: true
 image:
-  path: "/assets/img/cloudflare-workers.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cloudflare-workers.jpg"
   alt: "Cloudflare Workers ile Web Sitelerinde Kaynak URLlerini Dinamik Olarak Değiştirme"
 ---
 
 ## Cloudflare Workers Nedir?
 Cloudflare Workers, serverless bir JavaScript çalışma ortamıdır. Herhangi bir altyapı yönetimine ihtiyaç duymadan, web sitelerinizin kenar sunucularında (edge servers) kod çalıştırmanızı sağlar. Bu özellik sayesinde, sitenizin ziyaretçilerine en yakın sunucularda dinamik içerik işlemleri yaparak hız ve performans kazanırsınız. Bu da, global ölçekte düşük gecikmeyle yüksek performanslı hizmet sunma anlamına gelir.
 
-![cloudflare-worker-principles](/assets/img/cloudflare-worker-principles.jpg)
+![cloudflare-worker-principles](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cloudflare-worker-principles.jpg)
 
 ### Cloudflare Workers ile Neler Yapabilirsiniz?
 

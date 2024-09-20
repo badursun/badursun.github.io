@@ -5,6 +5,9 @@ date: 2017-01-28 15:28
 categories: ["Yazılım", "Embedded System"]
 tags: ["esp8266", "wifi", "arduino", "nodemcu"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/ESP8266-Wifi.jpg"
+  alt: "ESP8266 ile Proje Geliştirmeye Başlamak"
 ---
 
 Gömülü sistemlere ilk adımı attıysanız, sanıyorum ki bu dünyadan zevk almaya başlamışsınızdır. Bu sonsuz hazzı devam ettirmezseniz, içinizi yemeye başlayabilir. Bir sonraki adımda ne yapacağınızı düşünüyorsanız, büyük ihtimalle ESP8266 serisi çiplerle uzaktan da olsa tanışmışsınızdır. ESP8266 serisi çipler, Wi-Fi ile internete bağlanabilen, hem küçük boyutlu hem de uygun fiyatlı çip kartlarıdır. Günümüzde internete bağlanamayan neredeyse hiçbir cihaz kalmadı: buzdolabı, çamaşır makinesi, evler, televizyonlar... Aklınıza gelebilecek neredeyse her cihaz artık internete bağlanabiliyor. Sanırım bir tek tencere ve ütüler kaldı :)
@@ -17,7 +20,7 @@ Hal böyle olunca da pek bir adım atma taraftarı olmadım. Ancak son dönemdek
 
 ## ESP8266 Nedir?
 
-![ESP8266 E-01 modülünün örnek dış görünümü](assets/img/ESP8266-Wifi.jpg)
+![ESP8266 E-01 modülünün örnek dış görünümü](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/ESP8266-Wifi.jpg)
 *ESP8266 E-01 modülünün örnek dış görünümü.*
 
 ESP8266 ve bu çipi barındıran geliştirme kartları, gerçekten küçük bir devrim niteliğindeler. ESP8266’nın üretiliş amacı, öncelikle Arduino’yu Wi-Fi üzerinden internete bağlamaktı. XBee, Ethernet shield gibi pahalı parçalar kullanmak yerine, 2-3 dolar maliyetinde olan bu modülü kullanmak istediler. Bana kalırsa, bu haliyle bile çok başarılı bir ürün olurdu. ESP8266 Wi-Fi modülü, piyasadaki en uygun Wi-Fi modüllerindendir ve tüm Arduino projelerinizde kullanabilirsiniz. Arduino ile haberleşmeyi seri port üzerinden yapıyor. Bu nedenle, TX ve RX pinlerini kullanarak, Serial ile haberleşme yapabilirsiniz. Modül ile olan bağlantınızı debug etmek için USB-Serial kartı kullanabilirsiniz. Ancak test modunda Serial Monitor kullanmak isterseniz, ESP8266 seri bağlantısını SoftwareSerial ile de yapabilirsiniz. En önemli avantajları ise birincisi fiyatının diğer modüllere göre ucuz olması, ikincisi ise Arduino IDE üzerinden tıpkı Arduino programlar gibi USB-TTL serial dönüştürücü ile programlanabilmesidir.
@@ -25,7 +28,7 @@ ESP8266 ve bu çipi barındıran geliştirme kartları, gerçekten küçük bir 
 Birinci kullanım şekli, UART seri haberleşme protokolü üzerinden RX-TX pinleri ile Arduino veya başka kartları Wi-Fi ile internete bağlamaktır. Bu sayede internet üzerinden kontrollü devreler oluşturmanıza olanak sağlar. İkinci kullanım şekli ise Arduino IDE’ye ESP8266 kütüphanelerini yükleyerek, bu kartı programlamaktır. Bu kullanım şeklinde ise programlandıktan sonra başka hiçbir şeye ihtiyaç duymadan internet üzerinden kontrol edilen projeler yapabilirsiniz.
 
 ## ESP8266 Pin Dağılımı
-![ESP-01 Pin Dağılımı ve Kart Şeması](assets/img/ESP8266-12E-NodeMCU-Development-Board-pinout.webp)
+![ESP-01 Pin Dağılımı ve Kart Şeması](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/ESP8266-12E-NodeMCU-Development-Board-pinout.webp)
 *ESP-01 Pin Dağılımı ve Kart Şeması.*
 
 ESP8266 modülünün versiyonlarına göre pin dağılımları değişmektedir. Yukarıda gördüğünüz ESP-01 modülü için pin dağılımı URXD, GPIO0, GPIO1, GND, VCC, RST, CH_PD, UTXD olarak görülmektedir. Bu kısaltmaları açıklamıyorum; buraya kadar geldiyseniz zaten neyin ne olduğunu biliyorsunuzdur. Eğer bilmiyorsanız, yakında bununla ilgili de bir yazı yazacağım :) Takipte kalın.
@@ -40,7 +43,7 @@ Sabırsızlıkla gelmek istediğiniz nokta. Ancak Arduino'ya aşinaysanız bu no
 > **Not:** Arduino üzerinde bulunan TX, RX pinleri 5V ile çalıştığından dolayı ESP8266’ya zarar verebilir. Arduino'nun 3.3V pininin verebildiği akım miktarı ESP8266 için teorik olarak yeterli olmadığından, TTL üzerindeki 3.3V çıkışını kullanıyoruz.
 
 ## ESP8266 Firmware Güncelleme
-![ESP8266 FTDI Bağlantı Şeması](assets/img/FVIBNJ9IPEID45H.webp)
+![ESP8266 FTDI Bağlantı Şeması](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/FVIBNJ9IPEID45H.webp)
 *ESP8266 FTDI Bağlantı Şeması.*
 
 Yukarıdaki bağlantı şemasına uygun FTDI bağlantınızı yaptıysanız devam edelim. Yazılım yüklerken GPIO 0 (sıfır) pininin toprağa gittiğinden emin olun. Normal kullanımda bu bağlantı yapılmıyor. Aşağıdaki link üzerinden NodeMCU’nun son yayınlanmış olan sürümünü indirmeniz gerekiyor. Integer versiyonunu kullanabilirsiniz.

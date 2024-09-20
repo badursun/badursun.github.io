@@ -2,11 +2,11 @@
 layout: post
 title: "Kalk, Sonsuzluğa Uzan!"
 date: 2024-09-20 10:16
-categories: ["Hayata Dair","Goygoy yada Ciddi"]
-tags: ["lazarus", "lazarus-refleksi", "anatomi"]
+categories: ["Bilimsel","Fenomenler"]
+tags: ["lazarus", "lazarus-refleksi", "anatomi", "fenomenler", "bilim"]
 toc: true
 image:
-  path: "/assets/img/lazarus-sign.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/lazarus-sign.jpg"
   alt: "Kalk, Sonsuzluğa Uzan"
 ---
 

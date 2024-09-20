@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Arduino yavaş mı? O zaman hızlandıralım"
+title: "Arduino yavaş mı? O zaman hızlandıralım!"
 date: 2015-03-20 10:25
 categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "true-basic"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/0d6482d867b07eec4d0d6c209f922418.jpg"
+  alt: "Arduino yavaş mı? O zaman hızlandıralım!"
 ---
 
 Arduino ile ilgili ilk yazım biraz spesifik bir konuda olacak. İlk yazımı böyle bir konuda seçmemin sebebi ise, biriktirdiðim ve deneyimlediðim bir çok konu olmasına raðmen, yazmak için doðru platformu bulmakta zorlanmış olmam. Öyle ki, Arduino Merkezi adlı bir projem vardı fakat iş güç ve hayat yorgunluðundan ötürü bu projeyi hayata geçiremedim. Bir çok alanı neredeyse tamamlandı ama hiç bir zaman "açayım artık" diyemediðim kadar yetersiz.
@@ -18,7 +21,7 @@ Eðer arduino'nuzu yavaş buluyorsanız, bunun sebebi arduino kodlarken kulland�
 digitalWrite komutu ile bir pin'i HIGH yada LOW yaparız. Bu komut, çip'e ilgili pin'e voltaj gönderip göndermemesini söyler. Fakat biz bunu ingilizce söylediğimiz düşünelim. Fakat atmel ingilizce bilen bir ispanyol olsun :) Ona ne yapması gerektiğini ispanyolca mı söylersek daha hızlı yapar, yoksa ingilizce mi? Tabiki de ispanyolca, yani kendi anladığı dilde.
 
 ## Atmega 168 Pin Yapısı
-![Atmega 168 pin yapısı](assets/img/0d6482d867b07eec4d0d6c209f922418.jpg)
+![Atmega 168 pin yapısı](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/0d6482d867b07eec4d0d6c209f922418.jpg)
 
 Gördüğünüz gibi çiplerde bazı farklı terimler var. Bunlar, normalde arduino üzerinde kullanamadığınız özellikleri de listeler.
 
