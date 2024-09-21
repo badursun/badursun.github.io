@@ -5,6 +5,10 @@ date: 2020-01-25 17:14
 categories: ["Yazılım","Windows Server"]
 tags: ["windows", "asp", "https", "webconfig", "classic-asp"]
 toc: true
+toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/iis-config-https-redirect-66eec500ebe77.webp"
+  alt: "IIS web.config HTTP - HTTPS Force Redirect Sample"
 ---
 
 ## IIS web.config HTTP - HTTPS Force Redirect Sample

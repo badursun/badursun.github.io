@@ -101,7 +101,7 @@ End If
 %>
 ```
 
-Kullanmanız gereken bir kütüphane daha var o da ASP2Json kütüphanesi. İlgili kütüphaneye [buraya]({{ site.baseurl }}{% post_url 2017-11-06-www-asptojson-com-wayback-machine %}) tıklayıp ulaşabilirsiniz. Google'a gönderdiğiniz kodu verify etmek için dönen cevap json formatında olduğu için, ilgili cevaptan verileri okumanız gerekiyor. Eğer bu kütüphaneyi eklemezseniz yazılım size hata döndürecektir. Kodu kendi yapınıza göre geliştirebilirsiniz.
+Kullanmanız gereken bir kütüphane daha var o da ASP2Json kütüphanesi. İlgili kütüphaneye [buraya]({{ site.baseurl }}{% post_url 2017/2017-11-06-www-asptojson-com-wayback-machine %}) tıklayıp ulaşabilirsiniz. Google'a gönderdiğiniz kodu verify etmek için dönen cevap json formatında olduğu için, ilgili cevaptan verileri okumanız gerekiyor. Eğer bu kütüphaneyi eklemezseniz yazılım size hata döndürecektir. Kodu kendi yapınıza göre geliştirebilirsiniz.
 
 Eğer bir de jQuery ile ön validasyon yapacağım diyorsanız yukarıda eklediğimiz div içerisinde bir parametre daha olmalı
 

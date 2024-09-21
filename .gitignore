@@ -27,3 +27,4 @@ assets/js/dist
 *.xd
 .DS_Store
 /jekyll-theme-chirpy
+commands.txt

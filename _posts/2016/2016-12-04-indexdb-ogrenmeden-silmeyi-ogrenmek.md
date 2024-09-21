@@ -30,4 +30,4 @@ function dbTemizle(databaseName){
 }
 ```
 
-Daha detaylı bilgi için [bunu]({{ site.baseurl }}{% post_url 2016-12-05-web-storage-api-indexeddb-kullanimi %}) ve [şunu](https://blogs.shephertz.com/2014/01/14/html5-learn-how-to-use-indexeddb/) okuyabilirsiniz.
+Daha detaylı bilgi için [bunu]({{ site.baseurl }}{% post_url 2016/2016-12-05-web-storage-api-indexeddb-kullanimi %}) ve [şunu](https://blogs.shephertz.com/2014/01/14/html5-learn-how-to-use-indexeddb/) okuyabilirsiniz.

@@ -5,6 +5,9 @@ date: 2017-10-09 23:17
 categories: ["Teknoloji", "Blockchain"]
 tags: ["bitcoin", "bitcoin-gold", "btg", "crypto-currency", "blog"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/digital-phishing-66eec0c89dbdc.webp"
+  alt: "Dijital Dolandırıcılıklar Üzerine Sohbet"
 ---
 
 Uzun zamandır bloguma çok verimli yazılar yazamadım. Plan defterimde 7-8 konu beni bekliyor mutlaka yazacağım ama bugün yeni fark ettiğim bir mesaja istinaden hızlı bir yazı yazma gereği duydum.
@@ -15,7 +18,7 @@ Bildiğiniz gibi popüler konumuz Bitcoin. Türkiye'de bitcoin alabileceğiniz b
 
 Daha önce Bitcoin borsalarının sahtelerini üreterek kullanıcıların Bitcoin cüzdanlarına ulaşmayı deneyen dolandırıcıların hedefinde Koinim kullanıcıları da girdi. Poloniex, Bittrex gibi borsaların internet sitelerini kopyalayarak bu borsaların giriş ekranlarını birebir klonlayan, google aramalarında birinci sırada çıkmak için adwords kullanan profesyonel hacker (bence lamer oluyorlar) kişi/kişileri türkiyede daha yeni yeşeren kriptopara gerçeğini kabusa çevirmeyi başardılar.
 
-İlk poloniex de karşıma çıkan bu yöntemi tabiki de "adres satırı" kontrol etme alışkanlığım ile fark etmiştim. Ama bir çok kullanıcının hesapları cızırdadı. Daha önce [buradaki]({{ site.baseurl }}{% post_url 2017-06-07-bitcoin-ve-bitcoin-hirsizliklari-coinbitclip %}) makalemde güvenlik önlemleri ile ilgili ne yapılması gerektiğinden bahsetmiştim.
+İlk poloniex de karşıma çıkan bu yöntemi tabiki de "adres satırı" kontrol etme alışkanlığım ile fark etmiştim. Ama bir çok kullanıcının hesapları cızırdadı. Daha önce [buradaki]({{ site.baseurl }}{% post_url 2017/2017-06-07-bitcoin-ve-bitcoin-hirsizliklari-coinbitclip %}) makalemde güvenlik önlemleri ile ilgili ne yapılması gerektiğinden bahsetmiştim.
 
 Bu tabii sadece bitcoin yada bankalar için değil, herşey için geçerli. Sanal dünyada söylenen/yazılan herşeye tedbirle yaklaşmalısınız.
 

@@ -5,6 +5,10 @@ date: 2020-08-26 12:48
 categories: ["Yazılım", "Classic Asp"]
 tags: ["efinans", "efatura", "finans-bank", "asp", "asp-class"]
 toc: true
+toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/classic-asp-efinans-entegrasyonu-66eec18d75cab.webp"
+  alt: "Classic ASP - E-Finans ve E-Arşiv Web Servis Entegrasyonu"
 ---
 
 Eğer sizinde aradığınız soru E-Finans E-Arşiv Web Servis Entegrasyonu ve cevabı ise, doğru yerdesiniz.
