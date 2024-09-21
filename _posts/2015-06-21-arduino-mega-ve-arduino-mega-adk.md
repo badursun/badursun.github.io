@@ -5,6 +5,9 @@ date: 2015-06-21 18:53
 categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-mega", "arduino-adk"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/arduino-mega.jpg"
+  alt: "Arduino Mega"
 ---
 
 Arduino MEGA ve MEGA ADK arasında aslında görsel olarak çok büyük bir fark yok. Fakat ikisi arasında çok ince bir nokta var; bu da, MEGA ADK´nın Android geliştirme ortamı için yapılmış olması. Bu noktada en büyük fark USB HOST özellikleri olarak geliyor.

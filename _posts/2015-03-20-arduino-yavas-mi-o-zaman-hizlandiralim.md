@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "true-basic"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/0d6482d867b07eec4d0d6c209f922418.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/arduino-performance.jpg"
   alt: "Arduino yavaş mı? O zaman hızlandıralım!"
 ---
 

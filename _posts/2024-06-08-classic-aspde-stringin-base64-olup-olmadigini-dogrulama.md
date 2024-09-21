@@ -7,7 +7,7 @@ tags: ["base64", "classic-asp", "asp", "validate", "functions", "fonksiyonlar", 
 toc: true
 image:
   path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/asp.jpg"
-  alt: "Javascript"
+  alt: "Classic ASP"
 ---
 
 Bazen Classic ASP dilinde basit işlemleri yapmak zorlaşabiliyor fakat yazılımcı birisi her zaman bir yol bulur. Bu noktada önemli olan yegane şey, en performanslı yolu bulmak.

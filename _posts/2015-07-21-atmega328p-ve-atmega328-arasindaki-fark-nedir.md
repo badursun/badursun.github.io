@@ -5,6 +5,9 @@ date: 2015-07-21 12:38
 categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "atmega328p", "atmega328"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/atmega328.jpg"
+  alt: "Arduino"
 ---
 
 Bu güne kadar Atmega entegrelerinin ilginç isimlendirmelerine fazla kafa yormamıştım. Dün Atmega328 satın almak için web'de gezinirken Atmega328P ve Atmega328 arasındaki farklılıkları anlayarak satın alma kararı verme gereği duydum (ne aldığımı en ince ayrıntısına kadar bilmeyi severim). 

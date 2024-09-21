@@ -5,6 +5,9 @@ date: 2015-06-19 12:22
 categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-mega", "arduino-adk", "cpld-screen", "cpld", "tft", "lcd"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cpld-screen.jpg"
+  alt: "CPLD Ekran (CPLD Screen) Nedir?"
 ---
 
 Arduino ile birlikte kullanmak istediğimiz ekranların´da çeşitli özellikleri vardır. Bunlardan bir tanesi de CPLD ekran / CPLD Screen modelleridir.

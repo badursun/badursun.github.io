@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["esp8266", "wifi", "arduino", "nodemcu"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/ESP8266-Wifi.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/esp8266-wifi-on-hand.jpg"
   alt: "ESP8266 ile Proje Geliştirmeye Başlamak"
 ---
 

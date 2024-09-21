@@ -5,6 +5,9 @@ date: 2015-06-28 17:33
 categories: ["Teknoloji", "3D-Printer"]
 tags: ["3d-printer", "arduino", "arduino-mega", "reprap", "diy", "embedded-system"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/reprap-prusa-i3-yapimi.jpg"
+  alt: "RepRap Prusa I3 Yapımı"
 ---
 
 Merhaba, RepRap Prusa I3 Yapımı hakkında ArduinoTurk.org de yazdığım yazıyı web arşivlerden zar zor buldum ve derledim, tekrardan blogumda yayınlıyorum. Yavaş yavaş tüm aşamaları tekrar düzenleyip, güzel bir kaynak olarak sunmayı düşünüyorum. Aşağıda devam edelim:

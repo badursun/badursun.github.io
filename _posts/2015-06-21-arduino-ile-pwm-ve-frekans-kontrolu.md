@@ -3,8 +3,11 @@ layout: post
 title: "Arduino ile PWM ve Frekans Kontrolü"
 date: 2015-06-21 12:42
 categories: ["Yazılım", "Embedded System"]
-tags: ["arduino", "atmega", "arduino-pwm", "pwm-scale", "pwm-duty-cycle"]
+tags: ["arduino", "atmega", "arduino-pwm", "pwm-scale", "pwm-duty-cycle", "pwm"]
 toc: true
+image:
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/pwm-control.jpg"
+  alt: "Arduino ile PWM ve Frekans Kontrolü"
 ---
 
 Elektronik, sinyal işleme veya kare dalga dendiğinde genelde akıllara ilk olarak PWM (Pulse Width Modulation) tekniği gelir. Modülasyon işlemi gerçekleştiren bu tekniğin asıl amacı cihazlara verilen elektriğin gücünü kontrol altında tutmaktır.
