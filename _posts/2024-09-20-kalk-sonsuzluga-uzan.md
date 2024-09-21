@@ -5,6 +5,7 @@ date: 2024-09-20 10:16
 categories: ["Bilimsel","Fenomenler"]
 tags: ["lazarus", "lazarus-refleksi", "anatomi", "fenomenler", "bilim"]
 toc: true
+compress_html: true
 image:
   path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/lazarus-sign.jpg"
   alt: "Kalk, Sonsuzluğa Uzan"

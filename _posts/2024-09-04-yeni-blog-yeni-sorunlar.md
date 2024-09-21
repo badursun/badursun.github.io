@@ -3,7 +3,7 @@ layout: post
 title: "Yeni Blog, Yeni Sorunlar"
 date: 2024-09-04 21:09
 categories: ["Gunluk"]
-tags: ["gunluk", "blog", "jekyll", "github", "ruby", "cms", "blog", "markdown", "liquid", "jekyll-build-issues"]
+tags: ["gunluk", "blog", "jekyll", "github", "ruby", "cms", "blog", "markdown", "liquid", "jekyll-build-issues", "jekyll-performance"]
 toc: true
 image:
   path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/badursun-jekyll-blog-deploy-problem.jpg"
