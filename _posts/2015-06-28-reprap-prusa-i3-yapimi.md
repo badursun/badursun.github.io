@@ -6,7 +6,7 @@ categories: ["Teknoloji", "3D-Printer"]
 tags: ["3d-printer", "arduino", "arduino-mega", "reprap", "diy", "embedded-system"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/reprap-prusa-i3-yapimi.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/reprap-prusa-i3-yapimi-66eea9f34652f.webp"
   alt: "RepRap Prusa I3 Yapımı"
 ---
 

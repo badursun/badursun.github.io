@@ -7,7 +7,7 @@ tags: ["lazarus", "lazarus-refleksi", "anatomi", "fenomenler", "bilim"]
 toc: true
 compress_html: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/lazarus-sign.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/lazarus-sign-66eea9d53d5dc.webp"
   alt: "Kalk, Sonsuzluğa Uzan"
 ---
 

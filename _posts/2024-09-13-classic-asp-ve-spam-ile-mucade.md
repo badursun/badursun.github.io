@@ -6,7 +6,7 @@ categories: ["Yazılım", "Classic Asp"]
 tags: ["asp", "function", "spam"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/classic-asp-ve-spam-ile-mucade.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/classic-asp-ve-spam-ile-mucade-66eea94a525e7.webp"
   alt: "Classic ASP ve Spam ile Mücadele"
 ---
 

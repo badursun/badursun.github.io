@@ -6,7 +6,7 @@ categories: ["Teknoloji", "3D-Printer"]
 tags: ["3d-printer", "arduino", "arduino-mega", "reprap", "diy", "embedded-system", "adrian bowyer"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/reprap-prusa-i3.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/reprap-prusa-i3-66eea9f34708b.webp"
   alt: "Reprap Prusa I3 Rework Tanıyalım"
 ---
 

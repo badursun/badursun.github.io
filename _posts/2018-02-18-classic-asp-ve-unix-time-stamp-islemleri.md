@@ -6,7 +6,7 @@ categories: ["Yazılım", "Classic Asp"]
 tags: ["classic asp", "asp", "unixtimestamp", "functions"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/asp.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/asp-66eea92b39262.webp"
   alt: "Classic ASP ve Unix Time Stamp İşlemleri"
 ---
 

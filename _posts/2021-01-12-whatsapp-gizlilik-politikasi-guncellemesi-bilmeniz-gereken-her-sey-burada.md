@@ -6,7 +6,7 @@ categories: ["Teknoloji", "Veri Güvenliği"]
 tags: ["coverme", "whatsapp", "privacy"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/whatsapp-privacy-policy.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/whatsapp-privacy-policy-66eea9f911f9f.webp"
   alt: "Javascript"
 ---
 

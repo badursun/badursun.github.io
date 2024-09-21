@@ -6,13 +6,13 @@ categories: ["Teknoloji", "Son Gelismeler"]
 tags: ["esim", "btk", "teknoloji"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/esim-technology.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/esim-technology-66eea986ca0c8.webp"
   alt: "Javascript"
 ---
 
 BTK Başkanı Ömer Abdullah Karagözoğlu, 2020 yılında Türkiye’nin eSIM teknolojisine hazır hale geleceğini açıkladı.
 
-![2020 yılında Türkiye’nin eSIM teknolojisine hazır hale gelecek](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/2022-12-22-yilinda-turkiye-nin-esim-teknolojisine-hazir-hale-gelece.jpg)
+![2020 yılında Türkiye’nin eSIM teknolojisine hazır hale gelecek](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/2022-12-22-yilinda-turkiye-nin-esim-teknolojisine-hazir-hale-gelece-66eea8fe0dc2a.webp)
 _Image Caption_
 
 ## Türkiye'de eSIM Kullanımı

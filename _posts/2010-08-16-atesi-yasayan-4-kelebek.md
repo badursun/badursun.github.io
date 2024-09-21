@@ -6,7 +6,7 @@ categories: ["Hayata Dair","Goygoy yada Ciddi"]
 tags: ["dort-kelebek", "hikaye"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/fire-butterfly.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/fire-butterfly-66eea9a7b1ffe.webp"
   alt: "Ateşi Yaşayan 4 Kelebek"
 ---
 

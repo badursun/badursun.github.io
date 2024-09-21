@@ -6,7 +6,7 @@ categories: ["Bilimsel","Fenomenler"]
 tags: ["cotard", "cotard-sendromu", "bilim", "fenomenler"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cotard-syndrome.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cotard-syndrome-66eea984a4dce.webp"
   alt: "Ölümsüzlükten Daha Korkutucu: Cotard Sendromu"
 ---
 

@@ -6,7 +6,7 @@ categories: ["Yazılım", "Classic Asp"]
 tags: ["base64", "classic-asp", "asp", "validate", "functions", "fonksiyonlar", "regex"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/asp.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/asp-66eea92b39262.webp"
   alt: "Classic ASP"
 ---
 

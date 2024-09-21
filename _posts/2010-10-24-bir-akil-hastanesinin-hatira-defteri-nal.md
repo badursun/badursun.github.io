@@ -6,11 +6,11 @@ categories: ["Hayata Dair","Kitap"]
 tags: ["cemal dindar", "nal", "kitap"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/2010-10-24-bir-akil-hastanesinin-hatira-defteri-nal.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/2010-10-24-bir-akil-hastanesinin-hatira-defteri-nal-66eea8fd1421e.webp"
   alt: "Bir Akıl Hastanesinin Hatıra Defteri, Nal"
 ---
 
-"Bir Akıl Hastanesinin Hatıra Defteri - NAL," Bakırköy Ruh ve Sinir Hastalıkları Hastanesi'nde yıllarını geçirmiş "hasta"ların ruhlarından süzülmüş şiirler, resimler ve mektuplardan oluşan bir kitaptır. Psikiyatr Cemal Dindar'ın Telos Yayınları'ndan çıkan bu eseri, Türkiye'deki ruh sağlığı politikalarına da eleştiriler yöneltiyor. Dindar, kitabını "Akıl Hastanem'den şair manzaraları" ve "ortak hatıra defteri" olarak nitelendiriyor. Kitapta yer alan "elektroşoktan geçirilmiş" şiir ve mektuplardaki samimiyet, kara mizah, kendiyle dalga geçme hali ve kıvrak zekâ, en akıllı geçinenimizin bile kaleminden çıkamayacak türden.
+"Bir Akıl Hastanesinin Hatıra Defteri - NAL", Bakırköy Ruh ve Sinir Hastalıkları Hastanesi'nde yıllarını geçirmiş "hasta"ların ruhlarından süzülmüş şiirler, resimler ve mektuplardan oluşan bir kitaptır. Psikiyatr Cemal Dindar'ın Telos Yayınları'ndan çıkan bu eseri, Türkiye'deki ruh sağlığı politikalarına da eleştiriler yöneltiyor. Dindar, kitabını "Akıl Hastanem'den şair manzaraları" ve "ortak hatıra defteri" olarak nitelendiriyor. Kitapta yer alan "elektroşoktan geçirilmiş" şiir ve mektuplardaki samimiyet, kara mizah, kendiyle dalga geçme hali ve kıvrak zekâ, en akıllı geçinenimizin bile kaleminden çıkamayacak türden.
 
 ## Beynimle Baş Başa
 

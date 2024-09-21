@@ -6,7 +6,7 @@ categories: ["Gunluk", "Gune Not"]
 tags: ["gunluk", "blog", "true-loss", "nodejs", "railway"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/gunluk.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/gunluk-66eea9a9de6e4.webp"
   alt: "Günlük"
 ---
 
@@ -15,7 +15,7 @@ Bugünde tamamen True Loss platformu'nu geliştirmeye adadığım bir gün oldu.
 
 IDE arayüzünü iyice toparladım ve başlangıç dilini ingilizce olarak belirledim. Şöyle bir arayüz oldu:
 
-![True Loss IDE UI](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/true-loss-ide-ui-1.jpg)
+![True Loss IDE UI](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/true-loss-ide-ui-1-66eea9f8d8fa0.webp)
 
 API üzerinde ise temel ihtiyaçları ve bazı düzenlemeleri yaptım.
 

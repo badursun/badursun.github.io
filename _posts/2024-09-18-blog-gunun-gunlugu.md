@@ -6,7 +6,7 @@ categories: ["Gunluk", "Gecmise Not"]
 tags: ["gunluk", "blog", "true-loss", "rabbitcms", "jquery", "tag-manager", "facebook-meta", "meta-pixel"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/gunluk.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/gunluk-66eea9a9de6e4.webp"
   alt: "Günlük"
 ---
 
@@ -81,7 +81,7 @@ True Loss projesinde ise son geldiğim nokta IDE ile API arasında performans iy
 
 Yine IDE üzerinde bir dosya kırılımı sunarak, Görsel-Video-Ses-Diğer şeklinde 4 farklı kategori sunabilecektim.
 
-![True Loss File Manager](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/true-loss-filemanager.jpg)
+![True Loss File Manager](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/true-loss-filemanager-66eea9f76b974.webp)
 
 Nitekim yapıyı bu şekilde kurdum.  NodeJS tarafında da `listFiles` kodumu aşağıdaki gibi dinamikleştirdim.
 

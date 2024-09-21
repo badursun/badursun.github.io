@@ -6,7 +6,7 @@ categories: ["Bilimsel","Fenomenler"]
 tags: ["noroloji", "phantom-limb", "hayalet-uzun", "fenomenler", "psikoloji"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/phantom-limb.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/phantom-limb-66eea9d73c580.webp"
   alt: "Yok Olan Bir Bedeni Hissetmek"
 ---
 

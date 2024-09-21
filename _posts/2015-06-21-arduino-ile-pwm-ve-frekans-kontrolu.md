@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-pwm", "pwm-scale", "pwm-duty-cycle", "pwm"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/pwm-control.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/pwm-control-66eea9d8b9ede.webp"
   alt: "Arduino ile PWM ve Frekans Kontrolü"
 ---
 

@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "atmega328p", "atmega328"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/atmega328.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/atmega328-66eea92b8ea03.webp"
   alt: "Arduino"
 ---
 

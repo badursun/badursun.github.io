@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["pid", "proportional", "integral", "derivative"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/pid-control.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/pid-control-66eea9d85e168.webp"
   alt: "PID Kontrol Nedir, Nasıl Kullanılır?"
 ---
 

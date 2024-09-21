@@ -6,7 +6,7 @@ categories: ["Bilimsel","Fenomenler"]
 tags: ["noroloji", "locked-in", "locked-in-syndrome", "fenomenler", "psikoloji"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/locked-in-syndrome.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/locked-in-syndrome-66eea9d5bb2aa.webp"
   alt: "Sessiz Beden, Çığlık Atan Zihin"
 ---
 

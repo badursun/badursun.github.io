@@ -6,7 +6,7 @@ categories: ["Teknoloji", "Blockchain"]
 tags: ["bitcoin", "satoshi", "pizza", "bitcoin pizza"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/bitcoin-8-1024x652-e1499601254538-1024x458.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/bitcoin-8-1024x652-e1499601254538-1024x458-66eea94828add.webp"
   alt: "Bitcoin Yasaklandı mı?"
 ---
 

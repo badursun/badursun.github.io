@@ -6,7 +6,7 @@ categories: ["Bilimsel","Fenomenler"]
 tags: ["noroloji", "yabanci-el", "bilim", "fenomenler", "psikoloji"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/yabanci-el-sendromu.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/yabanci-el-sendromu-66eea9fb23b0d.webp"
   alt: "Yabancı El Sendromu: Kontrolden Çıkan Zihin"
 ---
 

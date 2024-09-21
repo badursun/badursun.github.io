@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-mega", "cte7", "clpd-screen"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cte7-cpld.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cte7-cpld-66eea98694d3f.webp"
   alt: "Arduino DUE + CTE7 CPLD 7inch Screen + Ethernet Shield + Load Image From SD"
 ---
 

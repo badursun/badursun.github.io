@@ -6,7 +6,7 @@ categories: ["Gunluk"]
 tags: ["gunluk", "blog", "jekyll", "github", "ruby", "cms", "blog", "markdown", "liquid", "jekyll-build-issues", "jekyll-performance"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/badursun-jekyll-blog-deploy-problem.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/badursun-jekyll-blog-deploy-problem-66eea92ccddde.webp"
   alt: "Yeni Blog, Yeni Sorunlar"
 ---
 

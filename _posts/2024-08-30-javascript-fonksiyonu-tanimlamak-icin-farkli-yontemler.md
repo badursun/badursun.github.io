@@ -6,7 +6,7 @@ categories: ["Yazılım", "Javascript"]
 tags: ["iife", "arrow-function", "function", "javascript", "es6", "ecma-script"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/javascript.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/javascript-66eea9a9f1072.webp"
   alt: "Javascript"
 ---
 

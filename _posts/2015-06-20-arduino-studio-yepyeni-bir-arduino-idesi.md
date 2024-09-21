@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "ide", "arudino-ide"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/arduino-ide-studio.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/arduino-ide-studio-66eea8fe412f8.webp"
   alt: "Arduino"
 ---
 

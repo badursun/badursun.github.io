@@ -6,7 +6,7 @@ categories: ["Yazılım", "MacOS"]
 tags: ["macos", "mac-reset", "mac-factory-reset", "factory-reset"]
 toc: true
 image:
-path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/macbook-factory-reset.jpg"
+path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/macbook-factory-reset-66eea9d6e7254.webp"
 alt: "Yeni Blog, Yeni Sorunlar"
 ---
 

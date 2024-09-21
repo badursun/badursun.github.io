@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-mega", "arduino-adk"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/arduino-mega.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/arduino-mega-66eea8ff1d46b.webp"
   alt: "Arduino Mega"
 ---
 

@@ -6,7 +6,7 @@ categories: ["Gunluk"]
 tags: ["gunluk", "blog", "jekyll", "github", "ruby", "cms", "blog", "markdown", "liquid"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/badursun-jekyll-blog.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/badursun-jekyll-blog-66eea92d1a7be.webp"
   alt: "Yeni Blog Altyapısı"
 ---
 

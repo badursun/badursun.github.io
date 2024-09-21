@@ -6,7 +6,7 @@ categories: ["Gunluk", "Gune Not"]
 tags: ["gunluk", "blog", "true-loss", "nodejs", "railway"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/gunluk.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/gunluk-66eea9a9de6e4.webp"
   alt: "Günlük"
 ---
 

@@ -6,17 +6,16 @@ categories: ["Hayata Dair", "Film - Dizi - Sinema"]
 tags: ["dean-corso", "film", "vizyon", "sinema"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/the-ninth-gate.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/the-ninth-gate-66eea9f6ad23b.webp"
   alt: "The Ninth Gate"
 ---
 
 **The Ninth Gate** filminde Dean Corso, zengin koleksiyoncular için nadir ve çok değerli kitapları araştıran bir uzmandır. Yaptığı iş, geniş bir kültürel birikim, yetenek ve çelik gibi sinirler gerektirir. 
 
-![Dean Corso](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/the-ninth-gate.jpg)
 Corso, ünlü bir bibliyofil olan Boris Balkan için, satanik ritüelleri anlatan bir seri kitabın sonuncusunun peşine düşer. Rivayete göre bu kitap, Karanlıklar Krallığı’nın dokuz kapısını açacak olan bir el yazmasıdır. Kalan iki kopya Avrupa'dadır. New York’tan Toledo’ya, Portekiz’den Paris’e uzanan yolculuğunda Corso, labirent gibi tuzaklarla ve vahşi, gizemli ölümlerle karşılaşır. Kendisini koruyan güçler sayesinde, kendisinden çok daha güçlü bir varlığa adım adım yaklaşır. Zamanla, asıl görevinin sadece bir kitabı bulmaktan çok daha farklı olduğunu anlar. Fakat çember daralmaktadır ve Dean, bu çemberin ortasında tek başınadır.
 
 ## Meraklısına: Filmde yer alan sahneler hakkında bazı bilgiler
-![Dean Corso](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/the-ninth-gate-2.jpg)
+![Dean Corso](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/the-ninth-gate-2-66eea9f504d57.webp)
 
 Kitabın ilk sayfasında yazan "sic luceat lux" ifadesi Latince bir deyiştir ve anlamı "bırak ışığın parlasın"dır. Bu ifade, Matta 5:16'da yer alan "Sizin ışığınız insanların önünde öyle parlasın ki, iyi işlerinizi görerek göklerdeki Babanızı yüceltsinler!” ayetiyle ilişkilendirilir.
 

@@ -12,7 +12,7 @@ toc: true
 Bugün sizlere kalite arttırma yöntemlerinden birisi olan T8 Trapez mili 3D Printer'inizda kullanıma geçirmeyi anlatacağım. Bildiğiniz gibi Z eksenin de genel olarak metrik 10 (yada metrik 5, ben 10 üzerinden anlatacağım) dişli saplama dediğimiz mil kullanılmakta. Bu mil ve T8 mil arasında ki farkı önce görelim, sonra detayını anlatayım.
 
 ## T8 Trapez Mil
-![T8 Trapez Mil](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/417kcALH26L._AC_UF894,1000_QL80_.jpg)
+![T8 Trapez Mil](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/417kcalh26l-ac-uf8941000-ql80-66eea8fc45fe1.webp)
 
 Yukarıda ki resimde göreceğiniz gibi T8 mil de 4 Start denilen 4 kanaldan oluşmakta. Dolayısıyla M10 saplama dişliye göre daha stabil, sallantısız ve kısa dönüşde geniş hareket sağlamakta. M10 saplama dişli ise genelde çok pürüzlü ve titreşim sebebi olan pürüzlere sahip. Ayrıca yüksek hareket için daha fazla dönüşe ihtiyaç duyuyor ki bu da hem daha fazla motor dönüş süresi demek hemde baskı süresini de uzatmak demek. Ayrıca önemli bir nokta, T8 vidası ile M10 için kullanılan somunun da arasında oldukça büyük kalite farkı var. Bu farkı aşağıda ki kısa bir video ile örnekleyelim
 

@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-mega", "arduino-adk", "cpld-screen", "cpld", "tft", "lcd"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cpld-screen.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/cpld-screen-66eea984c3144.webp"
   alt: "CPLD Ekran (CPLD Screen) Nedir?"
 ---
 

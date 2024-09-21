@@ -6,7 +6,7 @@ categories: ["Yazılım","Windows Server"]
 tags: ["windows", "asp", "cors", "webconfig", "classic-asp"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/windows-cors-policy.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/windows-cors-policy-66eea9fa6483c.webp"
   alt: "Javascript"
 ---
 
@@ -16,7 +16,7 @@ Access to XMLHttpRequest at ‘https://www. xxxxxx’ from origin ‘http://www.
 
 İşte bu sorunun windows server’larda Classic ASP ile çözümü oldukça basit. Tabii konu derinlemesine güvenlik içeriyor fakat özetle bu soruna kısadan bir çözüm yolunu web.config dosyası ile nasıl yaparsınız; işte hazır bir web.config dosyası
 
-![Windows Server Classic ASP CORS Policy Problemi Çözümü](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/2021-10-22-windows-server-classic-asp-cors-policy-problemi-cozumu.png)
+![Windows Server Classic ASP CORS Policy Problemi Çözümü](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/2021-10-22-windows-server-classic-asp-cors-policy-problemi-cozumu-66eea8fd671a9.webp)
 
 ## web.config Dosyası Güncellemesi
 ```xml

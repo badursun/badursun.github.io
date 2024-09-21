@@ -6,13 +6,13 @@ categories: ["Yazılım", "DevOps"]
 tags: ["cloudflare", "workers", "serverless", "javascript", "dns-router", "edge-compute", "jekyll", "jekyll-performance"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/jekyll-github-cloudflare.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/jekyll-github-cloudflare-66eea9ab88343.webp"
   alt: "Jekyll ile Performanslı Blog Deneyimim"
 ---
 
 **Jekyll** ile **GitHub** üzerinde oluşturduğum blog, gerçekten harika bir deneyim oldu. Statik bir site oluşturmaya yönelik bu süreçte pek çok şey öğrendim. Ama her zaman olduğu gibi, mükemmeli hedeflemek gibi bir takıntım var. Jekyll’in sağladığı statik HTML dosyalarının derlenmesi sırasında fark ettiğim birkaç sorun vardı. Bu dosyalar, gereksiz satır aralıkları ve boşluklarla doluydu. Bu durum, sayfa yükleme sürelerini olumsuz etkileyebilir. Bunu çözmek için kodlama işine girişebilirdim fakat bunun olumsuz tarafı, yeni bir sürümde tekrar adaptasyon yapmam gerekmesiydi.
 
-![Cloudflare Workers Jekyll Content Minify](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/compressed-jekyll-content-with-cloudflare-workers.jpg)
+![Cloudflare Workers Jekyll Content Minify](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/compressed-jekyll-content-with-cloudflare-workers-66eea94de424e.webp)
 
 Boşlukları temizlemek için bazı eklentileri araştırırken, **Cloudflare Workers** ile bu işi çözebileceğimi fark ettim. Bildiğiniz gibi, bütünleşik sistemler kurmayı ve bu sistemleri performans arttırmaya yönelik değerlendirmeyi çok severim. Cloudflare’in sunduğu bu harika araçla, HTML çıktılarımı neredeyse %85 oranında sıkıştırabileceğim, çok daha hızlı ve etkili bir sistem geliştirdim. Şimdi gelin bu süreci detaylıca inceleyelim.
 

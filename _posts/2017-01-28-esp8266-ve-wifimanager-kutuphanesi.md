@@ -6,7 +6,7 @@ categories: ["Yazılım", "Embedded System"]
 tags: ["esp8266", "wifi", "arduino", "nodemcu"]
 toc: true
 image:
-  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/esp8266-wifi-on-hand.jpg"
+  path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/esp8266-wifi-on-hand-66eea9884af89.webp"
   alt: "ESP8266 ile Proje Geliştirmeye Başlamak"
 ---
 
@@ -20,7 +20,7 @@ Hal böyle olunca da pek bir adım atma taraftarı olmadım. Ancak son dönemdek
 
 ## ESP8266 Nedir?
 
-![ESP8266 E-01 modülünün örnek dış görünümü](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/ESP8266-Wifi.jpg)
+![ESP8266 E-01 modülünün örnek dış görünümü](https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/esp8266-wifi-66eea988a9c5b.webp)
 *ESP8266 E-01 modülünün örnek dış görünümü.*
 
 ESP8266 ve bu çipi barındıran geliştirme kartları, gerçekten küçük bir devrim niteliğindeler. ESP8266’nın üretiliş amacı, öncelikle Arduino’yu Wi-Fi üzerinden internete bağlamaktı. XBee, Ethernet shield gibi pahalı parçalar kullanmak yerine, 2-3 dolar maliyetinde olan bu modülü kullanmak istediler. Bana kalırsa, bu haliyle bile çok başarılı bir ürün olurdu. ESP8266 Wi-Fi modülü, piyasadaki en uygun Wi-Fi modüllerindendir ve tüm Arduino projelerinizde kullanabilirsiniz. Arduino ile haberleşmeyi seri port üzerinden yapıyor. Bu nedenle, TX ve RX pinlerini kullanarak, Serial ile haberleşme yapabilirsiniz. Modül ile olan bağlantınızı debug etmek için USB-Serial kartı kullanabilirsiniz. Ancak test modunda Serial Monitor kullanmak isterseniz, ESP8266 seri bağlantısını SoftwareSerial ile de yapabilirsiniz. En önemli avantajları ise birincisi fiyatının diğer modüllere göre ucuz olması, ikincisi ise Arduino IDE üzerinden tıpkı Arduino programlar gibi USB-TTL serial dönüştürücü ile programlanabilmesidir.
