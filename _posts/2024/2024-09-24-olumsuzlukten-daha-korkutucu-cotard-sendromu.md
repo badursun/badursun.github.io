@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ölümsüzlükten Daha Korkutucu: Cotard Sendromu"
-date: 2024-09-24 21:49
+date: 2024-09-24 17:49
 categories: ["Bilimsel","Fenomenler"]
 tags: ["cotard", "cotard-sendromu", "bilim", "fenomenler"]
 toc: true
