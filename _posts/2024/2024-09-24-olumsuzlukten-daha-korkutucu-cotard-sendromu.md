@@ -12,7 +12,7 @@ image:
 
 # Cotard Sendromu: Yürüyen Cesetler Aramızda mı?
 
-İnsanın zihninin en derin karanlıklarında saklanan bazı gizemler, ruhani hikayelerden çok daha ürkütücüdür. **Cotard Sendromu**, halk arasında "Yürüyen Ceset Sendromu" olarak bilinen, bilimin açıklamakta zorlandığı nadir ve ürkütücü bir psikiyatrik bozukluktur. Peki, insan kendini gerçekten ölü hissedebilir mi?
+İnsanın zihninin en derin karanlıklarında saklanan bazı gizemler, ruhani hikayelerden çok daha ürkütücüdür. **Cotard Sendromu**, halk arasında "Yürüyen Ceset Sendromu" olarak bilinen, bilimin açıklamakta zorlandığı nadir ve ürkütücü bir psikiyatrik bozukluktur. Peki, insan kendini gerçekten ölü hissedebilir mi? 
 
 ## Kendi Ölümüne Tanıklık Etmek: Cotard Sendromunun Belirtileri
 

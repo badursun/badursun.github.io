@@ -22,7 +22,7 @@ Genie, izole hayatından kurtarıldıktan sonra yoğun bir dil eğitimi almasın
 
 ## Sessizlik ve Beynin Değişimi
 
-Genie'nin yaşadığı izolasyon sadece dil yeteneklerini değil, aynı zamanda sosyal gelişimini de ciddi biçimde etkiledi. Dil öğrenememenin ötesinde, insanlarla duygusal bağlar kurmakta, sosyal etkileşimlerde bulunmakta da büyük zorluk çekti. Beynin, dış dünyadan gelen uyarıcılara yanıt verebilmesi için yalnızca fizyolojik olarak değil, sosyal anlamda da uyum sağlaması gerektiği anlaşıldı.
+Genie'nin yaşadığı izolasyon sadece dil yeteneklerini değil, aynı zamanda sosyal gelişimini de ciddi biçimde etkiledi. Dil öğrenememenin ötesinde, insanlarla duygusal bağlar kurmakta, sosyal etkileşimlerde bulunmakta da büyük zorluk çekti. Beynin, dış dünyadan gelen uyarıcılara yanıt verebilmesi için yalnızca fizyolojik olarak değil, sosyal anlamda da uyum sağlaması gerektiği anlaşıldı. 
 
 Beynimiz, etkileşim içinde gelişir. Duygusal ve sosyal bağlar, beynin temel yapı taşlarını oluşturur. Bu bağlar eksik olduğunda, yalnızca dil değil, insan olmanın en temel deneyimleri de yitirilebilir. Genie'nin hikayesi, çocukluk döneminin ne kadar kırılgan ve kritik olduğunu bir kez daha gözler önüne serdi.
 

@@ -12,7 +12,7 @@ image:
 
 # Locked-in Sendromu: Bilinç Hapishanesine Hapsolmak
 
-**Locked-in sendromu**, tıp dünyasında bile nadir görülen ve dehşet verici bir durumdur. Kişinin zihni tamamen açık, bilinci yerindedir, fakat bedenini hareket ettiremez. Adeta, **kendi bedeninin içine hapsolmuş** gibidir. Dışarıdan bakıldığında hiçbir tepki veremeyen bir hasta gibi görünse de, aslında beyin tamamen aktiftir. Ancak, göz kasları hariç vücudun geri kalanı felçlidir.
+**Locked-in sendromu**, tıp dünyasında bile nadir görülen ve dehşet verici bir durumdur. Kişinin zihni tamamen açık, bilinci yerindedir, fakat bedenini hareket ettiremez. Adeta, **kendi bedeninin içine hapsolmuş** gibidir. Dışarıdan bakıldığında hiçbir tepki veremeyen bir hasta gibi görünse de, aslında beyin tamamen aktiftir. Ancak, göz kasları hariç vücudun geri kalanı felçlidir. 
 
 Bu sendromu yaşayan biri, hareket edemediği, konuşamadığı ve iletişim kuramadığı için dış dünyaya kapalı kalır. Tek istisna göz kaslarıdır. Bu kaslar sayesinde gözlerini sağa sola oynatarak iletişim kurabilen hastalar vardır. Göz kırparak "evet" ya da "hayır" diyebilirler. Bu da onların dış dünyayla kurabildikleri **tek bağ** olabilir. Peki, bir insan nasıl böyle bir durumda bilincini koruyabilir?
 

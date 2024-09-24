@@ -18,7 +18,7 @@ Bir uzvun kaybedilmesinden sonra bile, kişinin o uzvun varlığını hissetmesi
 
 Hayalet uzuv sendromu, çoğu zaman bir tür **nörolojik illüzyon** olarak tanımlanır. Ampute edilen bir uzvun, fiziksel olarak yokluğuna rağmen, kişi tarafından hissedilmeye devam etmesi durumudur. Beyin, kaybedilen bu uzva dair sinyaller göndermeye devam eder. Sonuç olarak, kişi eksik olan kolunun, bacağının veya parmaklarının var olduğuna dair yanılsamalar yaşar.
 
-Bu fenomen o kadar güçlü olabilir ki, bazı insanlar kaybettikleri uzuvlarında acı, kaşıntı veya yanma gibi fiziksel hisler bile deneyimleyebilir. Beynin, bedeni eksiksiz bir şekilde algılamaya devam etmesi, bu ilginç durumu ortaya çıkarır. Ancak neden beyin, var olmayan bir uzva bu kadar kuvvetli sinyaller göndermeye devam eder?
+Bu fenomen o kadar güçlü olabilir ki, bazı insanlar kaybettikleri uzuvlarında acı, kaşıntı veya yanma gibi fiziksel hisler bile deneyimleyebilir. Beynin, bedeni eksiksiz bir şekilde algılamaya devam etmesi, bu ilginç durumu ortaya çıkarır. Ancak neden beyin, var olmayan bir uzva bu kadar kuvvetli sinyaller göndermeye devam eder? 
 
 ### Ampute Olan Uzuvun İzleri
 
