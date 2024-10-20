@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yok Olan Bir Bedeni Hissetmek"
-date: 2024-09-26 01:28
+date: 2024-09-28 01:28
 categories: ["Bilimsel","Fenomenler"]
 tags: ["noroloji", "phantom-limb", "hayalet-uzun", "fenomenler", "psikoloji"]
 toc: true
@@ -14,7 +14,7 @@ image:
 
 Bir uzvun kaybedilmesinden sonra bile, kişinin o uzvun varlığını hissetmesi ne kadar olağan dışı olabilir? **Phantom limb** yani **Hayalet Uzuv Sendromu**, amputasyon geçiren bireylerin büyük bir kısmının yaşadığı bu garip ve bazen acı verici fenomenin adıdır. Kişi, kaybettiği kolunu ya da bacağını hala hissedebilir, hatta hareket ettirdiğini bile düşünebilir. Bazen bu hayalet uzuvdan gelen ağrı, insanın dayanamayacağı boyutlara ulaşabilir.
 
-## Hayalet Uzuv Nedir?
+## Hayalet Uzuv Nedir? 
 
 Hayalet uzuv sendromu, çoğu zaman bir tür **nörolojik illüzyon** olarak tanımlanır. Ampute edilen bir uzvun, fiziksel olarak yokluğuna rağmen, kişi tarafından hissedilmeye devam etmesi durumudur. Beyin, kaybedilen bu uzva dair sinyaller göndermeye devam eder. Sonuç olarak, kişi eksik olan kolunun, bacağının veya parmaklarının var olduğuna dair yanılsamalar yaşar.
 

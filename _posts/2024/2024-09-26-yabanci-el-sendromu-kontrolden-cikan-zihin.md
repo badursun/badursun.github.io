@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yabancı El Sendromu: Kontrolden Çıkan Zihin"
-date: 2024-09-24 23:28
+date: 2024-09-26 23:28
 categories: ["Bilimsel","Fenomenler"]
 tags: ["noroloji", "yabanci-el", "bilim", "fenomenler", "psikoloji"]
 toc: true

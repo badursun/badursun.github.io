@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sessizliğin İçinde Büyümek"
-date: 2024-09-26 01:28
+date: 2024-09-30 01:28
 categories: ["Bilimsel","Fenomenler"]
 tags: ["noroloji", "phantom-limb", "hayalet-uzun", "fenomenler", "psikoloji"]
 toc: true
@@ -14,7 +14,7 @@ image:
 
 Genie, hayatının ilk on üç yılını neredeyse tamamen izole, karanlık bir odada, sosyal ve dilsel etkileşimden mahrum kalarak geçirdi. Bu korkunç deneyim, dil ve sosyal gelişim açısından kritik yaş döneminin ne kadar önemli olduğunu bilim dünyasına çarpıcı bir şekilde gösterdi.
 
-## Dilin Kaybolduğu Yaşlar
+## Dilin Kaybolduğu Yaşlar 
 
 Beyin, dil öğrenme yeteneğini belirli bir yaşa kadar inanılmaz bir hızda geliştirir. Bu döneme "kritik dönem" denir. Beyin, bu süre zarfında, dilsel uyaranları en verimli şekilde işleyip dil öğrenme becerisini kazanır. Ancak bu dönem kaçırıldığında, dil öğrenme kapasitesi ciddi bir şekilde azalır. Genie'nin vakasında da olduğu gibi, izolasyon ve ihmalkarlık, beynin bu önemli kapasitesini neredeyse tamamen kilitlemişti.
 
