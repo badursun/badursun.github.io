@@ -1,52 +1,12 @@
 ---
 layout: default
 refactor: true
-pagination:
-  enabled: true
 ---
 
-{% include lang.html %}
-
-{% assign all_pinned = site.posts | where: 'pin', 'true' %}
-{% assign all_normal = site.posts | where_exp: 'item', 'item.pin != true and item.hidden != true' %}
-
-{% assign posts = '' | split: '' %}
-
-<!-- Get pinned posts on current page -->
-
-{% assign visible_start = paginator.page | minus: 1 | times: paginator.per_page %}
-{% assign visible_end = visible_start | plus: paginator.per_page %}
-
-{% if all_pinned.size > visible_start %}
-  {% if all_pinned.size > visible_end %}
-    {% assign pinned_size = paginator.per_page %}
-  {% else %}
-    {% assign pinned_size = all_pinned.size | minus: visible_start %}
-  {% endif %}
-
-  {% for i in (visible_start..all_pinned.size) limit: pinned_size %}
-    {% assign posts = posts | push: all_pinned[i] %}
-  {% endfor %}
+{% if paginator %}
+  {% assign posts = paginator.posts %}
 {% else %}
-  {% assign pinned_size = 0 %}
-{% endif %}
-
-<!-- Get normal posts on current page -->
-
-{% assign normal_size = paginator.posts | size | minus: pinned_size %}
-
-{% if normal_size > 0 %}
-  {% if pinned_size > 0 %}
-    {% assign normal_start = 0 %}
-  {% else %}
-    {% assign normal_start = visible_start | minus: all_pinned.size %}
-  {% endif %}
-
-  {% assign normal_end = normal_start | plus: normal_size | minus: 1 %}
-
-  {% for i in (normal_start..normal_end) %}
-    {% assign posts = posts | push: all_normal[i] %}
-  {% endfor %}
+  {% assign posts = site.posts | where_exp: 'item', 'item.hidden != true' | slice: 0, 10 %}
 {% endif %}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
@@ -101,13 +61,6 @@ pagination:
                   </span>
                 {% endif %}
               </div>
-
-              {% if post.pin %}
-                <div class="pin ms-1">
-                  <i class="fas fa-thumbtack fa-fw"></i>
-                  <span>{{ site.data.locales[lang].post.pin_prompt }}</span>
-                </div>
-              {% endif %}
             </div>
             <!-- .post-meta -->
           </div>
@@ -119,6 +72,14 @@ pagination:
 </div>
 <!-- #post-list -->
 
-{% if paginator.total_pages > 1 %}
+{% if paginator and paginator.total_pages > 1 %}
   {% include post-paginator.html %}
+{% else %}
+<nav aria-label="Page Navigation">
+    <ul class="pagination align-items-center mt-4 mb-0">
+        <li class="page-item ">
+            <a class="page-link" href="/page2/">Sonraki Sayfa</a>
+        </li>
+    </ul>
+</nav>
 {% endif %}
