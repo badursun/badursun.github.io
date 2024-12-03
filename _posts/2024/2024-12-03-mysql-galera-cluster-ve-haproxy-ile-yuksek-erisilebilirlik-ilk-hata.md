@@ -7,7 +7,7 @@ tags: ["yazilim", "mysql", "galer-cluster", "haproxy"]
 toc: true
 image:
   path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/galera-cluster-mysql-haproxy-674eba8e717ca.webp"
-  alt: "MySQL Galera Cluster ve HAProxy ile Yüksek Erişilebilirlik: İlk Hata!"
+  alt: "MySQL Galera Cluster ve HAProxy ile Yüksek Erişilebilirlik"
 ---
 
 # MySQL Galera Cluster ve HAProxy ile Yüksek Erişilebilirlik: İlk Hata!
