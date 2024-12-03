@@ -2,7 +2,7 @@
 layout: post
 title: "Classic ASP ve Spam ile Mücadele"
 date: 2024-09-13 14:39
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["asp", "function", "spam"]
 toc: true
 image:

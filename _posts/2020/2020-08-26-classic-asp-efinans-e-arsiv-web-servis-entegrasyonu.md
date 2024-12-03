@@ -2,7 +2,7 @@
 layout: post
 title: "Classic ASP - E-Finans ve E-Arşiv Web Servis Entegrasyonu"
 date: 2020-08-26 12:48
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["efinans", "efatura", "finans-bank", "asp", "asp-class"]
 toc: true
 toc: true

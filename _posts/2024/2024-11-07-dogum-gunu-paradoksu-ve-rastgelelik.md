@@ -2,7 +2,7 @@
 layout: post
 title: "Doğum Günü Paradoksu ve Rastgelelik"
 date: 2024-11-07 11:28
-categories: ["Yazılım"]
+categories: ["Yazilim"]
 tags: ["yazilim", "paradoks", "random", "rastgelelik"]
 toc: true
 image:

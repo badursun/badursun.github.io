@@ -2,7 +2,7 @@
 layout: post
 title: "PID Kontrol Nedir, Nasıl Kullanılır?"
 date: 2018-02-05 12:22
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["pid", "proportional", "integral", "derivative"]
 toc: true
 image:

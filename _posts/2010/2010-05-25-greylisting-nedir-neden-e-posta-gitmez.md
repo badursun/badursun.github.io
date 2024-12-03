@@ -2,7 +2,7 @@
 layout: post
 title: "Greylisting Nedir? Neden E-Posta Gitmez?"
 date: 2010-05-25 22:47
-categories: ["Yazılım", "DevOps"]
+categories: ["", "DevOps"]
 tags: ["mail-server", "mail-enable", "spf", "dkim", "dmarc", "email-setup", "email-server", "mta", "greylisting", "rfc-2821", "spam", "smtp", "gmaili", "qmail", "triplet", "rejected-mail"]
 toc: true
 ---
@@ -13,7 +13,7 @@ Server servis dışı olmadığı halde gönderilen maili geçici bir süre içi
 
 Bu yalancı reject durumunun nedeni aslında çok basit; SMTP’nin standartların belirtildiği RFC 2821 uyarınca, bir mail geçici olarak reject edildiği zaman, gönderide bulunan MTA ya da maili gönderen uygulama bir müddet sonra aynı maili tekrar göndermek için teşebbüsde bulunur; bulunmuyorsa o mail spamdir.
 
-Çünkü her aklı başında MTA ya da uygulama normal olarak RFC standartlarına göre yazılmıştır ve bu kurallar çerçevesinde hareket eder. Ancak spammerlerin, spam yapmak üzere kullandıkları yazılımlar genellikle herhangi bir standarda uymaksızın, "Maili gönder, gönderemiyorsan salla gitsin." prensibi ile çalışırlar. Zira atacak milyonlarca mail olduğundan dolayı yolda dökülenleri umursamazlar.
+Çünkü her aklı başında MTA ya da uygulama normal olarak RFC standartlarına göre yazılmıştır ve bu kurallar çerçevesinde hareket eder. Ancak spammerlerin, spam yapmak üzere kullandıkları lar genellikle herhangi bir standarda uymaksızın, "Maili gönder, gönderemiyorsan salla gitsin." prensibi ile çalışırlar. Zira atacak milyonlarca mail olduğundan dolayı yolda dökülenleri umursamazlar.
 
 İşte bu kurnaz yöntemle spam konusunda epey bir başarı elde edebilirsiniz.
 

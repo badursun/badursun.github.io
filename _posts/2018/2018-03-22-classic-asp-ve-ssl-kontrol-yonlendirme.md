@@ -2,7 +2,7 @@
 layout: post
 title: "Classic ASP ve SSL Kontrol, Yönlendirme"
 date: 2018-03-22 10:17
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["classic asp", "asp", "ssl", "https", "secure-socket-layer"]
 toc: true
 image:

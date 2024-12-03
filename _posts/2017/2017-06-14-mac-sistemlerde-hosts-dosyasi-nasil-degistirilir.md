@@ -2,7 +2,7 @@
 layout: post
 title: "macOS Sistemlerde HOSTS Dosyası Nasıl Değiştirilir?"
 date: 2017-06-14 13:31
-categories: ["Yazılım", "MacOS"]
+categories: ["Yazilim", "MacOS"]
 tags: ["macos", "hosts", "ip-config", "dns"]
 toc: true
 ---

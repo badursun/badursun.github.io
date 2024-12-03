@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery ile Parallax Arka Plan Yapımı"
 date: 2017-02-02 09:57
-categories: ["Yazılım", "jQuery"]
+categories: ["Yazilim", "jQuery"]
 tags: ["jquery", "javascript", "parallax", "css", "html"]
 toc: true
 ---

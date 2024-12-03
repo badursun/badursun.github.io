@@ -2,7 +2,7 @@
 layout: post
 title: "Classic ASP ile SOAP iletişimi"
 date: 2016-11-26 13:18
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["soap", "classic-asp", "asp"]
 toc: true
 ---

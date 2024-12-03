@@ -2,7 +2,7 @@
 layout: post
 title: "MacOS ve Paloalto Globalprotect VPN Uninstall"
 date: 2017-10-09 22:50
-categories: ["Yazılım", "MacOS"]
+categories: ["Yazilim", "MacOS"]
 tags: ["macos", "paloalto", "vpn", "vpn-uninstall"]
 toc: true
 ---

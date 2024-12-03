@@ -2,7 +2,7 @@
 layout: post
 title: "Arduino ve Değişken Kullanım Performansları"
 date: 2018-03-19 13:29
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["arduino", "mcu", "arduino-mega", "true-c", "arduino-performance"]
 toc: true
 image:

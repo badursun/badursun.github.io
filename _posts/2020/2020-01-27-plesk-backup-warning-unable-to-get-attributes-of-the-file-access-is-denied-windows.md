@@ -2,7 +2,7 @@
 layout: post
 title: "Plesk Backup Warning: Unable to get attributes of the file Access is denied -WINDOWS"
 date: 2020-01-27 10:50
-categories: ["Yazılım","Windows Server"]
+categories: ["Yazilim","Windows Server"]
 tags: ["plesk", "plesk-backup", "hosting-manager", "windows-server", "windows-plesk"]
 toc: true
 toc: true

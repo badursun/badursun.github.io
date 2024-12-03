@@ -2,7 +2,7 @@
 layout: post
 title: "NodeJS ile Profesyonel File Structure Kurgulamak"
 date: 2024-09-28 09:14
-categories: ["Yazılım", "NodeJS"]
+categories: ["Yazilim", "NodeJS"]
 tags: ["yazilim", "javascript", "nodejs", "file-structure"]
 toc: true
 image:

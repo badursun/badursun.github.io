@@ -2,7 +2,7 @@
 layout: post
 title: "Whatsapp Messenger Şimdi Mac'de"
 date: 2017-07-20 10:32
-categories: ["Yazılım", "MacOS"]
+categories: ["Yazilim", "MacOS"]
 tags: ["macos", "whatsapp", "app"]
 toc: true
 ---

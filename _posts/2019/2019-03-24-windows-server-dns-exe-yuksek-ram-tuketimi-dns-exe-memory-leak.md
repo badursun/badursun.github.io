@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Server DNS.EXE Yüksek Ram Tüketimi (dns.exe Memory Leak)"
 date: 2019-03-24 13:34
-categories: ["Yazılım","Windows Server"]
+categories: ["Yazilim","Windows Server"]
 tags: ["windows", "dns", "iis", "ram-leak", "classic-asp"]
 toc: true
 ---

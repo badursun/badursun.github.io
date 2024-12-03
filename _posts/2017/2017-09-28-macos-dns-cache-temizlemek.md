@@ -2,7 +2,7 @@
 layout: post
 title: "MacOS DNS cache Temizlemek"
 date: 2017-09-28 18:15
-categories: ["Yazılım", "MacOS"]
+categories: ["Yazilim", "MacOS"]
 tags: ["macos", "dns", "dns-cache", "mdnsresponder"]
 toc: true
 ---

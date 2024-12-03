@@ -4,6 +4,7 @@ vendor
 Gemfile.lock
 
 # Jekyll cache
+.sass-cache
 .jekyll-cache
 .jekyll-metadata
 _site
@@ -28,3 +29,4 @@ assets/js/dist
 .DS_Store
 /jekyll-theme-chirpy
 commands.txt
+/.vscode

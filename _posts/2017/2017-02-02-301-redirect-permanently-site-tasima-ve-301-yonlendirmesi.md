@@ -2,7 +2,7 @@
 layout: post
 title: "301 Redirect Permanently - Site Taşıma ve 301 Yönlendirmesi"
 date: 2017-02-02 10:29
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["classic asp", "asp", "301-redirect", "redirect"]
 toc: true
 ---

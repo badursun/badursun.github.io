@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Sunucuda SMF Forum ve Pretty URLs"
 date: 2015-12-14 09:54
-categories: ["Yazılım", "Windows Server"]
+categories: ["Yazilim", "Windows Server"]
 tags: ["windows", "smf forum", "pretty url", "plugin"]
 toc: true
 ---

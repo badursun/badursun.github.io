@@ -2,7 +2,7 @@
 layout: post
 title: "Nesnelerin İnterneti IoT Nedir ?"
 date: 2017-02-12 14:29
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["iot", "embedded-system"]
 toc: true
 ---

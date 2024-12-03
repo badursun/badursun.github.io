@@ -2,7 +2,7 @@
 layout: post
 title: "Arduino ile PWM ve Frekans Kontrolü"
 date: 2015-06-21 12:42
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-pwm", "pwm-scale", "pwm-duty-cycle", "pwm"]
 toc: true
 image:

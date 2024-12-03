@@ -2,7 +2,7 @@
 layout: post
 title: "Cryptocoins - Kripto Para / Crypto Currency Logoları (WebFont)"
 date: 2017-07-09 15:48
-categories: ["Yazılım"]
+categories: ["Yazilim"]
 tags: ["cryptocoin", "webfont"]
 toc: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "www.asptojson.com wayback machine"
 date: 2017-11-06 10:52
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["json", "classic-asp-json-parse", "asp", "aspjson", "fonksiyonlar", "functions"]
 toc: true
 ---

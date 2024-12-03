@@ -2,7 +2,7 @@
 layout: post
 title: Windows Server Classic ASP CORS Policy Problemi Çözümü
 date: 2021-10-22 12:04:00
-categories: ["Yazılım","Windows Server"]
+categories: ["Yazilim","Windows Server"]
 tags: ["windows", "asp", "cors", "webconfig", "classic-asp"]
 toc: true
 image:

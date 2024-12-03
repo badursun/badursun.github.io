@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Server - Mailenable Standart ve E-Posta DKIM, DMARC, SPF Kayıtları"
 date: 2018-04-27 13:41
-categories: ["Yazılım", "Windows Server"]
+categories: ["Yazilim", "Windows Server"]
 tags: ["windows", "mail-enable", "spf", "dkim", "dmarc", "email-setup", "email-server"]
 toc: true
 ---

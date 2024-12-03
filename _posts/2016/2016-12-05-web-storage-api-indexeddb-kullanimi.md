@@ -2,7 +2,7 @@
 layout: post
 title: "Web Storage Api - IndexedDB Kullanımı"
 date: 2016-12-05 14:35
-categories: ["Yazılım", "Javascript"]
+categories: ["Yazilim", "Javascript"]
 tags: ["web-api", "javascript", "database", "local-storage", "web-storage"]
 toc: true
 ---

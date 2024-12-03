@@ -2,7 +2,7 @@
 layout: post
 title: "Arduino Mega ve Arduino Mega ADK"
 date: 2015-06-21 18:53
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-mega", "arduino-adk"]
 toc: true
 image:

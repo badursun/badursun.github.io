@@ -2,7 +2,7 @@
 layout: post
 title: "ESP8266 ile Proje Geliştirmeye Başlamak"
 date: 2017-01-28 15:28
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["esp8266", "wifi", "arduino", "nodemcu"]
 toc: true
 image:

@@ -2,7 +2,7 @@
 layout: post
 title: "Arduino DUE + CTE7 CPLD 7inch Screen + Ethernet Shield + Load Image From SD"
 date: 2016-11-25 21:58
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-mega", "cte7", "clpd-screen"]
 toc: true
 image:

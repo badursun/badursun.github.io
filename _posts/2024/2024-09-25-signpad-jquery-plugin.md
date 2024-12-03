@@ -2,7 +2,7 @@
 layout: post
 title: "SignPad jQuery Plugin"
 date: 2024-09-25 14:52
-categories: ["Eklentiler"]
+categories: ["Eklentiler", "jQuery"]
 tags: ["jquery", "signpad", "javascript", "plugin", "freebie"]
 toc: true
 image:

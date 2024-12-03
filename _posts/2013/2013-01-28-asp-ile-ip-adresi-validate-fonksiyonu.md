@@ -2,7 +2,7 @@
 layout: post
 title: "ASP ile IP Adresi Validate Fonksiyonu"
 date: 2013-01-28 09:39
-categories: ["Yazılım","Classic Asp"]
+categories: ["Yazilim","Classic Asp"]
 tags: ["google", "search engine", "privacy", "fonksiyon", "function"]
 toc: true
 ---

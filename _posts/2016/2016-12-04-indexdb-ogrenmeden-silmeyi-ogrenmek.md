@@ -2,7 +2,7 @@
 layout: post
 title: "IndexDB Öğrenmeden, Silmeyi Öğrenmek"
 date: 2016-12-04 11:29
-categories: ["Yazılım", "Javascript"]
+categories: ["Yazilim", "Javascript"]
 tags: ["web-api", "javascript", "database", "local-storage", "web-storage", "indexdb"]
 toc: true
 ---

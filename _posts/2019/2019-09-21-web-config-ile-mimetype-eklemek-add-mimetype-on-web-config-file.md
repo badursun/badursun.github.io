@@ -2,7 +2,7 @@
 layout: post
 title: "web.config ile MimeType Eklemek"
 date: 2019-09-21 13:46
-categories: ["Yazılım","Windows Server"]
+categories: ["Yazilim","Windows Server"]
 tags: ["windows", "asp", "mimetype", "webconfig", "classic-asp"]
 toc: true
 ---

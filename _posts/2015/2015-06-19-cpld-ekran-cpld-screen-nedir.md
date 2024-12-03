@@ -2,7 +2,7 @@
 layout: post
 title: "CPLD Ekran (CPLD Screen) Nedir?"
 date: 2015-06-19 12:22
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["arduino", "atmega", "arduino-mega", "arduino-adk", "cpld-screen", "cpld", "tft", "lcd"]
 toc: true
 image:

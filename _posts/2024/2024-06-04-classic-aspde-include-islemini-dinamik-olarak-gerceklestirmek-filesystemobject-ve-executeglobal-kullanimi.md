@@ -2,7 +2,7 @@
 layout: post
 title: "Classic ASP'de Include İşlemini Dinamik Olarak Gerçekleştirmek: FileSystemObject ve ExecuteGlobal Kullanımı"
 date: 2024-06-04 11:29
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["dynamic-include", "classic-asp", "asp", "executeglobal"]
 toc: true
 image:

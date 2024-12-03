@@ -2,7 +2,7 @@
 layout: post
 title: "Javascript Fonksiyonu Tanımlamak İçin Farklı Yöntemler"
 date: 2024-08-30 14:47
-categories: ["Yazılım", "Javascript"]
+categories: ["Yazilim", "Javascript"]
 tags: ["iife", "arrow-function", "function", "javascript", "es6", "ecma-script"]
 toc: true
 image:

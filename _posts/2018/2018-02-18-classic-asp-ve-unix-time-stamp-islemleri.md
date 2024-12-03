@@ -2,7 +2,7 @@
 layout: post
 title: "Classic ASP ve Unix Time Stamp İşlemleri"
 date: 2018-02-18 17:57
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["classic asp", "asp", "unixtimestamp", "functions"]
 toc: true
 image:

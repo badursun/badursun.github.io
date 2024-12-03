@@ -2,7 +2,7 @@
 layout: post
 title: "QNBPay ve NodeJS ile Hash Hesaplama"
 date: 2024-10-21 12:28
-categories: ["Yazılım", "NodeJS"]
+categories: ["Yazilim", "NodeJS"]
 tags: ["yazilim", "javascript", "nodejs", "qnbpay", "qnb", "sanal-pos"]
 toc: true
 image:

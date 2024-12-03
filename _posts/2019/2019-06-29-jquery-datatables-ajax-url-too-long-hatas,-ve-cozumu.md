@@ -2,7 +2,7 @@
 layout: post
 title: "jQuery DataTables Ajax URL Too Long Hatası ve Çözümü"
 date: 2019-06-29 11:10
-categories: ["Yazılım", "jQuery"]
+categories: ["Yazilim", "jQuery"]
 tags: ["jquery", "javascript", "datatables"]
 toc: true
 ---

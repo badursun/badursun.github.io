@@ -2,7 +2,7 @@
 layout: post
 title: "İTS İlaç Takip Sistemi ve Classic ASP SOAP İletişim Örneği"
 date: 2018-04-13 13:22
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["soap", "classic-asp", "asp", "its", "ilac-takip-sistemi", "fonksiyonlar"]
 toc: true
 ---

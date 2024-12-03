@@ -2,7 +2,7 @@
 layout: post
 title: "reCAPTCHA ve Classic ASP Entegrasyonu (Doğrulama)"
 date: 2018-10-15 12:55
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["google", "classic-asp", "asp", "recaptcha", "functions", "fonksiyonlar"]
 toc: true
 ---

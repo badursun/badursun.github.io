@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Sunucuda Wordpress ve web.config Dosyası"
 date: 2018-04-19 16:08
-categories: ["Yazılım","Windows Server"]
+categories: ["Yazilim","Windows Server"]
 tags: ["windows", "wordpress", "htaaccess", "webconfig"]
 toc: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Arduino Studio : Yepyeni Bir Arduino IDE'si"
 date: 2015-06-20 12:32
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["arduino", "ide", "arudino-ide"]
 toc: true
 image:

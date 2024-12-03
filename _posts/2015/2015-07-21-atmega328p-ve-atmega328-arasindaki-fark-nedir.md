@@ -2,7 +2,7 @@
 layout: post
 title: "Atmega328P ve Atmega328 Arasındaki Fark Nedir?"
 date: 2015-07-21 12:38
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["arduino", "atmega", "atmega328p", "atmega328"]
 toc: true
 image:

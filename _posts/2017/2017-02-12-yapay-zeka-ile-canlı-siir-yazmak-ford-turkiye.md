@@ -2,7 +2,7 @@
 layout: post
 title: "Yapay Zeka ile Canlı Şiir Yazmak - Ford Türkiye"
 date: 2017-02-12 15:46
-categories: ["Yazılım", "AI"]
+categories: ["Yazilim", "AI"]
 tags: ["ai", "yapay zeka", "ford"]
 toc: true
 ---

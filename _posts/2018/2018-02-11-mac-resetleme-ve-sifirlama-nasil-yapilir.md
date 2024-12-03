@@ -2,7 +2,7 @@
 layout: post
 title: "Mac Resetleme ve Sıfırlama Nasıl Yapılır?"
 date: 2018-02-11 21:23
-categories: ["Yazılım", "MacOS"]
+categories: ["Yazilim", "MacOS"]
 tags: ["macos", "mac-reset", "mac-factory-reset", "factory-reset"]
 toc: true
 image:

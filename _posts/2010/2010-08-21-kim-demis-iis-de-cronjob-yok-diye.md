@@ -2,7 +2,7 @@
 layout: post
 title: "Kim demiş IIS de Cronjob Yok Diye?"
 date: 2010-08-21 12:02
-categories: ["Yazılım", "Windows Server"]
+categories: ["Yazilim", "Windows Server"]
 tags: ["windows", "linux", "cronjob", "crontab", "james-crooke"]
 toc: true
 ---

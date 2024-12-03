@@ -2,7 +2,7 @@
 layout: post
 title: "Input Placeholder Rengi Değiştirme (Pure CSS)"
 date: 2018-10-23 12:26
-categories: ["Yazılım", "Css"]
+categories: ["Yazilim", "Css"]
 tags: ["css", "input", "placeholder"]
 toc: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Arduino yavaş mı? O zaman hızlandıralım!"
 date: 2015-03-20 10:25
-categories: ["Yazılım", "Embedded System"]
+categories: ["Yazilim", "Embedded System"]
 tags: ["arduino", "atmega", "true-basic"]
 toc: true
 image:

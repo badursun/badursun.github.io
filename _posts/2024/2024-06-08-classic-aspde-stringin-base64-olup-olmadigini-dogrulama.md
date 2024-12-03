@@ -2,7 +2,7 @@
 layout: post
 title: "Classic ASP'de stringin Base64 olup olmadığını doğrulama (validate)"
 date: 2024-06-08 12:42
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["base64", "classic-asp", "asp", "validate", "functions", "fonksiyonlar", "regex"]
 toc: true
 image:

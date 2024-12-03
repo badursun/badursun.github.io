@@ -2,7 +2,7 @@
 layout: post
 title: "Jekyll ile Performanslı Blog Deneyimim"
 date: 2024-09-21 13:01
-categories: ["Yazılım", "DevOps"]
+categories: ["Yazilim", "DevOps"]
 tags: ["cloudflare", "workers", "serverless", "javascript", "dns-router", "edge-compute", "jekyll", "jekyll-performance"]
 toc: true
 image:

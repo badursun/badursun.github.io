@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "MySQL Galera Cluster ve HAProxy ile Yüksek Erişilebilirlik: İlk Hata!"
+description: "Galera Cluster, MySQL veya MariaDB veritabanları için gerçek zamanlı, senkronize ve dağıtılmış bir veritabanı çözümüdür."
 date: 2024-12-03 08:28
-categories: ["Yazılım"]
+categories: ["Yazilim"]
 tags: ["yazilim", "mysql", "galer-cluster", "haproxy"]
+pin: false
+hidden: false
 toc: true
 image:
   path: "https://raw.githubusercontent.com/badursun/badursun-assets.github.io/refs/heads/main/img/galera-cluster-mysql-haproxy-674eba8e717ca.webp"

@@ -2,7 +2,7 @@
 layout: post
 title: "Klasik ASP ve Bellek Yönetimi (Classic ASP and Memory Management)"
 date: 2019-04-05 11:31
-categories: ["Yazılım", "Classic Asp"]
+categories: ["Yazilim", "Classic Asp"]
 tags: ["classic asp", "asp", "memory management"]
 toc: true
 ---

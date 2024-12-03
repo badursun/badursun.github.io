@@ -2,7 +2,7 @@
 layout: post
 title: "MySQL CONCAT String Fonksiyonu Kullanımı"
 date: 2017-05-21 17:57
-categories: ["Yazılım", "Database"]
+categories: ["Yazilim", "Database"]
 tags: ["mysql", "concat", "database-engine"]
 toc: true
 ---
