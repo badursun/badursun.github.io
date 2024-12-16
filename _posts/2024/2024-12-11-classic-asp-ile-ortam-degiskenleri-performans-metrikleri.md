@@ -172,3 +172,4 @@ Set shell = Nothing
 Classic ASP uygulamalarında veri yönetimi için Environment, Application ve Session nesneleri farklı ihtiyaçlara hitap eden güçlü araçlardır. Her biri, kullanım alanlarına göre avantajlar ve dezavantajlar sunar. Bu üç yapı arasında doğru seçimi yapmak, uygulamanızın performansını, sürdürülebilirliğini ve kullanıcı deneyimini doğrudan etkiler. İhtiyacınıza uygun olan yapıyı seçerken bu faktörleri göz önünde bulundurun. Ayrıca projenizin yatay veya dikey olarak ölçeklendirilmesi aşamasında **benim önerim bu üçünüde kullanmamanız**. Bu da başka bir yazının konusu olacak.
 
 > Bu yöntemlerin her biri, farklı senaryolarda avantaj sağlar. İhtiyacınıza uygun olanı seçerek uygulamanızın performansını ve verimliliğini artırabilirsiniz!
+{: .prompt-danger }
