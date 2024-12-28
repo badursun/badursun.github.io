@@ -25,7 +25,7 @@ Classic ASP, web geliştirme teknolojileri arasında köklü bir yere sahiptir. 
 
 ### Değişken Oluşturma
 
-```asp
+```javascript
 <%
 Session("KullaniciAdi") = "Burak"
 Response.Write "Hoşgeldiniz, " & Session("KullaniciAdi")
@@ -34,7 +34,7 @@ Response.Write "Hoşgeldiniz, " & Session("KullaniciAdi")
 
 ### Oturum Süresini Ayarlama
 
-```asp
+```javascript
 <%
 Session.Timeout = 30
 %>
@@ -55,7 +55,7 @@ Session.Timeout = 30
 
 #### Veri Ekleme ve Okuma
 
-```asp
+```javascript
 <%
 Application("SiteAdı") = "Örnek Site"
 Response.Write "Site Adı: " & Application("SiteAdı")
@@ -64,7 +64,7 @@ Response.Write "Site Adı: " & Application("SiteAdı")
 
 #### Veri Güncelleme
 
-```asp
+```javascript
 <%
 Application.Lock
 Application("SiteAdı") = "Yeni Site Adı"
@@ -96,7 +96,7 @@ Ortam değişkenleri, işletim sisteminin belirli bilgileri uygulamalara aktarma
 
 Ortam değişkenlerini `WScript.Shell` nesnesi ile okuyabilirsiniz. İşte bir örnek:
 
-```asp
+```javascript
 <%
 Function GetEnvironmentVariable(envType, envVar)
     On Error Resume Next
@@ -120,7 +120,7 @@ Response.Write "Bilgisayar Adı: " & GetEnvironmentVariable("SYSTEM", "COMPUTERN
 
 Sistem veya kullanıcı ortam değişkenlerine veri eklemek için aşağıdaki gibi bir yöntem kullanabilirsiniz:
 
-```asp
+```javascript
 <%
 Function SetEnvironmentVariable(envType, envVar, envValue)
     On Error Resume Next
@@ -146,7 +146,7 @@ Call SetEnvironmentVariable("SYSTEM", "MyCustomVariable", "CustomValue")
 
 Geçici (process-level) ortam değişkenleri yalnızca uygulama çalışırken geçerlidir:
 
-```asp
+```javascript
 <%
 Dim shell
 Set shell = CreateObject("WScript.Shell")
