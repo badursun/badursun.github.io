@@ -122,14 +122,17 @@ Bu yöntem her ne kadar string birleştirme için 'çalışıyor' olsa da, Class
 - Maintenance zorluğu
 
 **Potansiyel Hatalar:**
-```vbscript
-' ÖRNEK 1: Beklenmeyen Sonuç
+**ÖRNEK 1: Beklenmeyen Sonuç**
+```javascript
 result = "5" + "3"     ' Sonuç: 8 (sayısal toplama)
 result = "5" & "3"     ' Sonuç: "53" (string birleştirme)
+```
 
-' ÖRNEK 2: Hata Riski
+**ÖRNEK 2: Hata Riski**
+```javascript
 userInput = Request.Form("number")  ' Kullanıcı "abc" girerse
 result = userInput + 5             ' Hata: Type mismatch
+```
 
 ## Daha Verimli Alternatifler
 
