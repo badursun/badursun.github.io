@@ -2,7 +2,7 @@
 layout: post
 title: "Classic ASP'de Method Chaining (Zincirleme Metot) Kullanımı"
 description: "Method Chaining (Zincirleme Metot), nesne yönelimli programlamada sıkça kullanılan ve kodun okunabilirliğini artıran önemli bir tasarım desenidir."
-date: 2025-01-04 09:45
+date: 2025-01-18 19:45
 categories: ["Yazilim", "Classic Asp"]
 tags: ["asp-method-chaining", "asp-class", "vbscript", "classic-asp", "zincirleme-metot", "fluent-interface"]
 pin: false
@@ -141,16 +141,15 @@ End Class
 
 3. **Kullanım Örneği**:
 
-```vbscript
-Dim mat
+```javascript
 Set mat = New Matematik
-sonuc = mat.Topla(10).Cikart(5).Carp(2).Bol(2).Sonuc()
+    Sonuc = mat.Topla(10).Cikart(5).Carp(2).Bol(2).Sonuc()
 Set mat = Nothing
 ```
 
 Son olarak bir de şöyle güzel satır satır yazma örneği ekleyelim :) Sonra demesinler, tek satırda yazmak zorundasın diye..
 
-```vbscript
+```javascript
 Set Math0 = New Matematik
     Response.Write Math0.Topla(10)_
         .Cikart(5)_
