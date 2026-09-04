@@ -1,0 +1,518 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Anthony Burak Dursun — Özgeçmiş</title>
+  <style>
+    :root{
+      --ink:#151515;
+      --muted:#5f6368;
+      --soft:#f5f6f7;
+      --line:#d8dadd;
+      --line-dark:#b9bdc2;
+      --paper:#ffffff;
+      --page:#eceeef;
+      --accent:#1f2937;
+      --max:1120px;
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{
+      margin:0;
+      background:var(--page);
+      color:var(--ink);
+      font-family:Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height:1.56;
+      letter-spacing:-0.01em;
+      -webkit-font-smoothing:antialiased;
+      text-rendering:optimizeLegibility;
+    }
+    a{color:inherit;text-decoration:none}
+    .cv{
+      width:min(var(--max), calc(100% - 32px));
+      margin:32px auto;
+      background:var(--paper);
+      border:1px solid #e4e6e8;
+      box-shadow:0 14px 40px rgba(0,0,0,.06);
+    }
+    .page{padding:48px 56px 54px}
+    .page + .page{border-top:1px solid var(--line)}
+
+    .header{
+      display:grid;
+      grid-template-columns:minmax(0,1fr) 112px;
+      gap:32px;
+      align-items:start;
+      padding-bottom:30px;
+      border-bottom:1px solid var(--line-dark);
+    }
+    .name{
+      margin:0 0 6px;
+      font-size:clamp(30px,4vw,44px);
+      line-height:1.05;
+      letter-spacing:-0.035em;
+      font-weight:800;
+    }
+    .role{
+      margin:0 0 22px;
+      font-size:16px;
+      font-weight:650;
+      color:#2b2f33;
+    }
+    .contact{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      gap:7px 24px;
+      font-size:13.5px;
+      color:#44484c;
+    }
+    .contact span{display:block;min-width:0;overflow-wrap:anywhere}
+    .photo{
+      width:112px;
+      aspect-ratio:4/5;
+      border:1px solid var(--line-dark);
+      background:linear-gradient(180deg,#fafafa,#f2f3f4);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      text-align:center;
+      font-size:11px;
+      color:#8a8f95;
+      overflow:hidden;
+    }
+    .photo img{width:100%;height:100%;object-fit:cover;display:block}
+
+    section{padding-top:30px}
+    .section-title{
+      margin:0 0 18px;
+      font-size:15px;
+      line-height:1.2;
+      font-weight:800;
+      letter-spacing:.08em;
+      text-transform:uppercase;
+    }
+    .section-rule{padding-bottom:26px;border-bottom:1px solid var(--line)}
+    .lead{
+      margin:0;
+      font-size:15.5px;
+      color:#2f3337;
+      max-width:92ch;
+    }
+    .summary-grid{
+      display:grid;
+      grid-template-columns:repeat(2,minmax(0,1fr));
+      border-top:1px solid var(--line);
+      border-left:1px solid var(--line);
+    }
+    .summary-item{
+      padding:17px 19px 18px;
+      border-right:1px solid var(--line);
+      border-bottom:1px solid var(--line);
+      min-height:108px;
+    }
+    .summary-item h3{margin:0 0 6px;font-size:14px}
+    .summary-item p{margin:0;font-size:13.5px;color:var(--muted)}
+
+    .timeline{display:grid;gap:0}
+    .timeline-item{
+      display:grid;
+      grid-template-columns:145px minmax(0,1fr);
+      gap:24px;
+      padding:20px 0;
+      border-top:1px solid var(--line);
+      break-inside:avoid;
+    }
+    .timeline-item:first-child{border-top:0;padding-top:0}
+    .when{font-size:13px;font-weight:800;color:#2c3034;padding-top:2px}
+    .job h3{margin:0;font-size:17px;line-height:1.3}
+    .company{margin:3px 0 9px;font-size:13.5px;color:#5a5f64;font-style:italic}
+    .job ul{margin:0;padding-left:18px}
+    .job li{margin:4px 0;font-size:13.7px;color:#303438}
+    .note{margin-top:8px;font-size:12.5px;color:#70757a}
+
+    .work-table{
+      width:100%;
+      border-collapse:collapse;
+      table-layout:fixed;
+      font-size:12.7px;
+    }
+    .work-table th,.work-table td{
+      border:1px solid var(--line);
+      padding:11px 12px;
+      text-align:left;
+      vertical-align:top;
+    }
+    .work-table th{background:#f6f7f8;font-size:12px;letter-spacing:.025em}
+    .work-table td:first-child{font-weight:700;width:27%}
+    .work-table th:nth-child(1){width:27%}
+    .work-table th:nth-child(2){width:31%}
+    .work-table th:nth-child(3){width:42%}
+
+    .projects{display:grid;gap:18px}
+    .project{
+      padding:0 0 20px;
+      border-bottom:1px solid var(--line);
+      break-inside:avoid;
+    }
+    .project:last-child{border-bottom:0;padding-bottom:0}
+    .project h3{margin:0 0 2px;font-size:18px;line-height:1.3}
+    .project .meta{font-size:12.5px;font-weight:750;color:#4e5358;margin-bottom:7px}
+    .project .desc{font-size:14px;margin:0 0 8px;color:#2f3337}
+    .project ul{margin:0;padding-left:18px}
+    .project li{margin:4px 0;font-size:13.5px;color:#40454a}
+
+    .two-col{
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:24px;
+    }
+    .panel{
+      border:1px solid var(--line);
+      padding:18px 20px;
+      break-inside:avoid;
+    }
+    .panel h3{margin:0 0 9px;font-size:14px}
+    .panel p{margin:0;font-size:13.4px;color:#44494e}
+
+    .skills-table{
+      width:100%;
+      border-collapse:collapse;
+      table-layout:fixed;
+      font-size:13px;
+    }
+    .skills-table td{border:1px solid var(--line);padding:10px 12px;vertical-align:top}
+    .skills-table td:first-child{width:180px;font-weight:750;background:#f7f8f9}
+
+    .footer-grid{
+      display:grid;
+      grid-template-columns:1fr 1fr 1.3fr;
+      gap:20px;
+    }
+    .footer-col{padding-right:20px;border-right:1px solid var(--line)}
+    .footer-col:last-child{border-right:0;padding-right:0}
+    .footer-col h3{margin:0 0 10px;font-size:14px}
+    .footer-col p,.footer-col li{font-size:12.8px;color:#454a4f}
+    .footer-col ul{margin:0;padding-left:18px}
+    .footer-col li{margin:5px 0}
+    .footer-col p{margin:0}
+
+    .page-label{
+      margin-top:36px;
+      padding-top:14px;
+      border-top:1px solid var(--line-dark);
+      display:flex;
+      justify-content:space-between;
+      gap:16px;
+      color:#6d7277;
+      font-size:11.5px;
+    }
+
+    @media (max-width:760px){
+      .cv{width:100%;margin:0;border:0;box-shadow:none}
+      .page{padding:30px 22px 36px}
+      .header{grid-template-columns:1fr 84px;gap:18px}
+      .photo{width:84px}
+      .contact{grid-template-columns:1fr;gap:5px}
+      .summary-grid,.two-col,.footer-grid{grid-template-columns:1fr}
+      .timeline-item{grid-template-columns:1fr;gap:7px;padding:17px 0}
+      .footer-col{border-right:0;border-bottom:1px solid var(--line);padding:0 0 16px}
+      .footer-col:last-child{border-bottom:0}
+      .work-table{display:block;overflow-x:auto;white-space:normal}
+      .skills-table td:first-child{width:130px}
+    }
+
+    @page{size:A4;margin:15mm 14mm 16mm}
+    @media print{
+      body{background:#fff;font-size:10.2pt}
+      .cv{width:auto;margin:0;border:0;box-shadow:none}
+      .page{padding:0;break-after:page}
+      .page:last-child{break-after:auto}
+      .page + .page{border-top:0}
+      .header{grid-template-columns:minmax(0,1fr) 28mm;gap:8mm;padding-bottom:7mm}
+      .photo{width:28mm}
+      .name{font-size:25pt}
+      .role{font-size:10.5pt;margin-bottom:5mm}
+      .contact{font-size:8.7pt;gap:1.5mm 6mm}
+      section{padding-top:7mm}
+      .section-title{font-size:10.5pt;margin-bottom:4mm}
+      .lead{font-size:9.7pt}
+      .summary-item{padding:4mm 4.5mm;min-height:0}
+      .summary-item h3{font-size:9pt}
+      .summary-item p{font-size:8.6pt}
+      .timeline-item{grid-template-columns:32mm minmax(0,1fr);gap:6mm;padding:4.2mm 0}
+      .when{font-size:8.5pt}
+      .job h3{font-size:10.4pt}
+      .company{font-size:8.5pt}
+      .job li{font-size:8.7pt;margin:1mm 0}
+      .work-table{font-size:7.8pt}
+      .work-table th,.work-table td{padding:2.2mm 2.4mm}
+      .project{padding-bottom:4.5mm;margin-bottom:0}
+      .project h3{font-size:11pt}
+      .project .meta{font-size:8pt}
+      .project .desc{font-size:8.8pt}
+      .project li{font-size:8.4pt}
+      .panel{padding:4mm 4.5mm}
+      .panel p{font-size:8.5pt}
+      .skills-table{font-size:8pt}
+      .skills-table td{padding:2.5mm 2.8mm}
+      .skills-table td:first-child{width:38mm}
+      .footer-col h3{font-size:9pt}
+      .footer-col p,.footer-col li{font-size:7.9pt}
+      .page-label{display:none}
+      a{text-decoration:none}
+    }
+  </style>
+</head>
+<body>
+  <main class="cv">
+    <article class="page">
+      <header class="header">
+        <div>
+          <h1 class="name">Anthony Burak Dursun</h1>
+          <p class="role">Kurucu · Teknoloji Yöneticisi · Yazılım, Ürün Geliştirme ve E‑Ticaret</p>
+          <div class="contact">
+            <span>İstanbul</span>
+            <span><a href="mailto:badursun@adjans.com.tr">badursun@adjans.com.tr</a></span>
+            <span><a href="tel:+905073422345">+90 507 342 23 45</a></span>
+            <span><a href="https://www.adjans.com.tr/">www.adjans.com.tr</a></span>
+            <span><a href="https://www.linkedin.com/in/badursun">linkedin.com/in/badursun</a></span>
+            <span><a href="https://github.com/badursun">github.com/badursun</a></span>
+          </div>
+        </div>
+        <div class="photo" aria-label="Fotoğraf alanı">Fotoğraf<br>Alanı</div>
+      </header>
+
+      <section class="section-rule">
+        <h2 class="section-title">Profesyonel Profil</h2>
+        <p class="lead">Elektronik ve mekanik teknik servis atölyesinde başlayan çalışma hayatını; web yazılımı, ürün geliştirme, e‑ticaret altyapıları, ajans yönetimi, mobil uygulamalar ve son yıllarda agentic AI sistemlerine taşıyan 20+ yıllık teknoloji profesyoneli. 2009’dan bu yana Adjans’ın kurucusu ve yöneticisi olarak kurumsal web, e‑ticaret, özel yazılım, mobil uygulama, entegrasyon ve teknik danışmanlık projelerini yürütmektedir. Çalışmalarının ortak ekseni yalnızca otomasyon değil; güvenilir çıktı, doğrulama, kontrollü süreç ve uygulanabilir sonuç üretmektir.</p>
+      </section>
+
+      <section class="section-rule">
+        <h2 class="section-title">Uzmanlık Özeti</h2>
+        <div class="summary-grid">
+          <div class="summary-item"><h3>Yönetim ve Ürün</h3><p>Şirket yönetimi, ürün sahipliği, teknik liderlik, proje planlama, müşteri ve ekip yönetimi.</p></div>
+          <div class="summary-item"><h3>Yazılım ve Platformlar</h3><p>Web yazılımı, e‑ticaret sistemleri, mobil uygulamalar, özel iş yazılımları ve entegrasyonlar.</p></div>
+          <div class="summary-item"><h3>Altyapı ve Operasyon</h3><p>DevOps yaklaşımı, sunucu ve servis yönetimi, dağıtım süreçleri, kurumsal operasyon akışları.</p></div>
+          <div class="summary-item"><h3>AI ve Güven</h3><p>Agentic AI, doğrulama odaklı kullanım, insan denetimi, veri güvenliği ve kurumsal farkındalık.</p></div>
+        </div>
+      </section>
+
+      <section>
+        <h2 class="section-title">Kariyer Deneyimi</h2>
+        <div class="timeline">
+          <div class="timeline-item">
+            <div class="when">2009 — Günümüz</div>
+            <div class="job">
+              <h3>Kurucu & Teknoloji Yöneticisi</h3>
+              <div class="company">Adjans Digital, İstanbul</div>
+              <ul>
+                <li>2009’da şahıs şirketi olarak başlayan yapıyı 2015’te limited şirkete dönüştürdü.</li>
+                <li>Şirketi en yoğun döneminde 13 kişilik ekibe büyüttü; pandemi sonrasında odağı yazılım, ürün geliştirme ve teknik danışmanlığa taşıdı.</li>
+                <li>Kurumsal web, e‑ticaret, mobil uygulama, özel yazılım, entegrasyon, sunucu/DevOps ve dijital dönüşüm projelerinde teknik lider ve yönetici olarak görev aldı.</li>
+                <li>Bugün sabit ekip ve proje bazlı uzmanlarla birlikte seçili müşteri ve ürün geliştirme çalışmalarını sürdürüyor.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="when">2006 — 2010</div>
+            <div class="job">
+              <h3>Software Specialist · sonrasında Proje Bazlı / Freelance Geliştirici</h3>
+              <div class="company">Aydan Bilişim · Remote</div>
+              <ul>
+                <li>Paket emlak ve oto galeri yazılımları dahil çok sayıda web ürünü geliştirdi.</li>
+                <li>İlk dönemde aktif geliştirici olarak çalıştı; Hayalet Design döneminden sonra ilişki proje bazlı ve freelance olarak devam etti.</li>
+              </ul>
+              <div class="note">2009–2010 dönemi Adjans’ın kuruluşuyla paraleldir; Aydan Bilişim çalışmaları bu aşamada proje bazlıdır.</div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="when">2006</div>
+            <div class="job">
+              <h3>Software Specialist</h3>
+              <div class="company">Hayalet Design, Kavacık / İstanbul</div>
+              <ul>
+                <li>Özel web yazılımları ve mevcut projelerin geliştirilmesi.</li>
+                <li>Ajansın sunucu ve network altyapılarında aktif teknik sorumluluk.</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="when">2005 — 2006</div>
+            <div class="job">
+              <h3>Saha & Operasyon · ardından Ekip Liderliği</h3>
+              <div class="company">Target Group · Akbank Axess operasyonu</div>
+              <ul><li>Saha operasyonu, ekip koordinasyonu ve ofis içi operasyon takibi.</li></ul>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="when">2004 — 2005</div>
+            <div class="job">
+              <h3>Kurucu Ortak</h3>
+              <div class="company">Sadece Web</div>
+              <ul><li>İlk girişim; küçük ölçekli web yazılım projeleri ve ticari ürün denemeleri.</li></ul>
+              <div class="note">Lise son döneminde, Fırın Destek’teki yarı zamanlı teknik çalışma ile paralel yürütüldü.</div>
+            </div>
+          </div>
+
+          <div class="timeline-item">
+            <div class="when">2000 — 2005</div>
+            <div class="job">
+              <h3>Yarı Zamanlı Teknik Servis · Elektronik ve Mekanik Sistemler</h3>
+              <div class="company">Fırın Destek · sonraki yıllarda dönemsel teknik destek devam etti</div>
+              <ul>
+                <li>Tıbbi ve dental laboratuvar cihazlarında mekanik bakım, elektronik kart onarımı, saha servisi ve arıza teşhisi.</li>
+                <li>Faaliyet daha sonra Adjans bünyesine taşındı; Türkiye’nin yanında Balkanlar ve İran’a uzanan bakım ve teknik destek süreçlerinde rol aldı.</li>
+                <li>Vita, Ceramco ve Jelrus cihaz ekosistemleri üzerinde teknik servis tecrübesi edindi.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="page-label"><span>Anthony Burak Dursun · Özgeçmiş</span><span>1</span></div>
+    </article>
+
+    <article class="page">
+      <section style="padding-top:0">
+        <h2 class="section-title">Seçili Kurumsal Çalışmalar</h2>
+        <table class="work-table">
+          <thead><tr><th>Kurum / Marka</th><th>Kapsam</th><th>Katkı</th></tr></thead>
+          <tbody>
+            <tr><td>Uğur Şirketler Grubu / Uğur Entegre Gıda</td><td>2012’den günümüze çok disiplinli teknoloji ve danışmanlık çalışmaları</td><td>Web, e‑ticaret, iç yazılım, mobil uygulama, sosyal medya ve danışmanlık</td></tr>
+            <tr><td>Havaist</td><td>Kurumsal iç operasyon yazılımları</td><td>CRM / ERP odaklı iç program geliştirme</td></tr>
+            <tr><td>Ata Arms</td><td>Uzun soluklu web ve danışmanlık çalışmaları</td><td>Web sitesi geliştirme, güncelleme ve teknik / dijital danışmanlık</td></tr>
+            <tr><td>Myfix · Yıldız Yapı Kimyasalları</td><td>Kurumsal satış ve operasyon süreçleri</td><td>B2B, ERP, CRM ve teknik danışmanlık</td></tr>
+            <tr><td>Eren Holding · Disconti</td><td>Mobil ürün geliştirme</td><td>Mobil uygulama geliştirme</td></tr>
+            <tr><td>Teksan Jeneratör</td><td>Mobil ve teknik ürün geliştirme</td><td>Mobil uygulama geliştirme ve teknik danışmanlık</td></tr>
+            <tr><td>Dossha</td><td>E‑ticaret ve altyapı operasyonları</td><td>E‑ticaret sistemleri, altyapı servisleri ve teknik danışmanlık</td></tr>
+            <tr><td>Merit Grup</td><td>Kurumsal dijital varlık</td><td>Web sitesi yazılım hizmetleri</td></tr>
+            <tr><td>Maxoft</td><td>Ürün geliştirme ve teknik iş ortaklığı</td><td>Whitelabel program geliştirme ve teknik danışmanlık</td></tr>
+            <tr><td>Häfele</td><td>Ürün deneyimi ve teknik içerik</td><td>3D ürün görselleştirme ve teknik danışmanlık</td></tr>
+            <tr><td>Subaru / LC Waikiki / Turkcell</td><td>Deneyim odaklı dijital projeler</td><td>AR/VR deneyimleri, KRPano ve özel yazılım çalışmaları</td></tr>
+            <tr><td>Sana Kapak Olsun / Bayi Kapak</td><td>Uçtan uca operasyon sistemi</td><td>Siparişten baskıya, kargo ve alt bayi hakediş dağıtımına uzanan satış‑üretim otomasyonu</td></tr>
+            <tr><td>İBB / İGDAŞ</td><td>Erken dönem dijital kampanya ve sosyal medya işleri</td><td>Sosyal medya kampanyaları ve Facebook entegrasyonlu etkinlik projeleri</td></tr>
+            <tr><td>İstMarina + DAP Yapı</td><td>Marka ve sosyal medya süreçleri</td><td>Sosyal medya danışmanlığı</td></tr>
+            <tr><td>Dünya Göz Hastanesi</td><td>Kurumsal iletişim süreçleri</td><td>Sosyal medya danışmanlığı</td></tr>
+            <tr><td>Akyürek Holding</td><td>Kurumsal iletişim süreçleri</td><td>Sosyal medya danışmanlığı</td></tr>
+            <tr><td>Özdilek</td><td>Erken dönem e‑ticaret geliştirme</td><td>E‑ticaret sitesi geliştirme</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section class="section-rule">
+        <h2 class="section-title">Ürünler ve Teknik Girişimler</h2>
+        <div class="projects">
+          <div class="project">
+            <h3>Polarify / OrionCart</h3>
+            <div class="meta">Kurucu ve Ürün Sahibi</div>
+            <p class="desc">Yeni nesil, modüler bir e‑ticaret platformu.</p>
+            <ul>
+              <li>Ürün, varyant, stok, fiyat, sipariş, ödeme, kargo, iade, kampanya, CMS ve operasyon süreçlerini tek platform mantığında ele alır.</li>
+              <li>Gerçek ticari kullanım ihtiyaçlarına göre tasarlanan, bağımsız kurulum ve ölçeklenebilir operasyon mantığına sahip ürün mimarisi üzerinde geliştirilmektedir.</li>
+            </ul>
+          </div>
+          <div class="project">
+            <h3>RabbitCMS</h3>
+            <div class="meta">Kurucu Geliştirici</div>
+            <p class="desc">Classic ASP tabanlı içerik, web sitesi ve e‑ticaret çekirdeği.</p>
+            <ul>
+              <li>Uzun yıllar ticari projelerde kullanılmış, web sitesi ve e‑ticaret üretim süresini ciddi biçimde kısaltan bir altyapıdır.</li>
+              <li>Cordova tabanlı mobil uygulama geliştirme süreçlerinde de üretim hızını artıran çekirdek yapı olarak kullanılmıştır.</li>
+            </ul>
+          </div>
+          <div class="project">
+            <h3>Admissible · Agentic Development Governance</h3>
+            <div class="meta">Product Owner</div>
+            <p class="desc">AI yazılım ajanları için kanıt, test ve bağımsız kabul odaklı yönetişim yaklaşımı.</p>
+            <ul>
+              <li>“Ajan söyledi diye doğru kabul etme” anlayışının yerine; kanıt, doğrulama, güncel evidence ve bağımsız review mantığını yerleştirir.</li>
+              <li>AI destekli geliştirme süreçlerinde güvenin sistematik olarak nasıl inşa edileceğine odaklanır.</li>
+            </ul>
+          </div>
+          <div class="project">
+            <h3>StateBrowse · Stateful Browser Runtime for AI Agents</h3>
+            <div class="meta">Project Owner</div>
+            <p class="desc">AI coding agent’ları için Rust / CDP tabanlı stateful browser runtime.</p>
+            <ul>
+              <li>Persistent browser session, delta‑first state ve human handoff yaklaşımıyla agent davranışını daha görünür ve kontrol edilebilir hale getirmeyi hedefler.</li>
+              <li>Tarayıcı otomasyonunda güven, izlenebilirlik ve ölçülebilir çıktı eksenine odaklanır.</li>
+            </ul>
+          </div>
+          <div class="project">
+            <h3>WrongStack</h3>
+            <div class="meta">Product Testing & Productivity Contributor</div>
+            <p class="desc">AI destekli yazılım geliştirme süreçlerinde kontrol, üretkenlik ve tüketim optimizasyonuna odaklanan geliştirici aracı ve topluluğu.</p>
+            <ul>
+              <li>Ürün genel testleri, geliştirici üretkenliği ve tüketim modellerinin iyileştirilmesine katkı sağlar.</li>
+              <li>Farklı model ve kullanım senaryolarının verimlilik etkileri üzerine pratik çalışma yürütmektedir.</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <div class="page-label"><span>Anthony Burak Dursun · Özgeçmiş</span><span>2</span></div>
+    </article>
+
+    <article class="page">
+      <section style="padding-top:0" class="section-rule">
+        <h2 class="section-title">AI, Güven ve Kurumsal Kullanım</h2>
+        <p class="lead">Son 3 yıldır üretken AI araçlarıyla, yaklaşık 2 yıldır agentic coding yöntemleriyle aktif olarak çalışmaktadır. OpenAI ve Anthropic sistemlerini geliştirme iş akışlarında yoğun kullanmakta; DeepSeek, Kimi ve Grok gibi farklı model ailelerini de karşılaştırmalı biçimde değerlendirmektedir. Teknik yaklaşımının ortak ekseni, AI çıktısına koşulsuz güvenmek değil; güveni doğrulama, kanıt, yetki sınırı ve insan denetimiyle kurmaktır.</p>
+      </section>
+
+      <section class="section-rule">
+        <h2 class="section-title">Kurumsal Bilgi Paylaşımı ve Danışmanlık</h2>
+        <div class="two-col">
+          <div class="panel"><h3>Kurum İçi Bilgi Aktarımı</h3><p>Uğur Grubu’nda sosyal medya kullanımı üzerine kurum içi eğitimler; müşterilere geliştirilen özel yazılım ve ürünlerin kullanımı konusunda küçük grup eğitimleri.</p></div>
+          <div class="panel"><h3>Teknik Danışmanlık</h3><p>Küçük ekiplerle uygulama, ürün kullanımı, dijital süreçler ve teknik kararlar üzerine danışmanlık ve çalışma oturumları.</p></div>
+        </div>
+      </section>
+
+      <section class="section-rule">
+        <h2 class="section-title">Teknik Yetkinlikler</h2>
+        <table class="skills-table">
+          <tbody>
+            <tr><td>Yazılım</td><td>Classic ASP (legacy), Node.js, JavaScript / TypeScript, Go, SQL</td></tr>
+            <tr><td>Veri & Backend</td><td>PostgreSQL, MongoDB, Redis</td></tr>
+            <tr><td>Altyapı & DevOps</td><td>Docker, Cloudflare, Traefik, Caddy, Git, Linux ve sunucu operasyonları</td></tr>
+            <tr><td>Mobil & Gömülü</td><td>Flutter, Arduino, STM; mikrodenetleyici programlama ve PCB tasarımı</td></tr>
+            <tr><td>AI Araçları</td><td>OpenAI, Anthropic, DeepSeek, Kimi, Grok; agentic coding ve AI destekli geliştirme süreçleri</td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section>
+        <h2 class="section-title">Eğitim, Diller ve Görünürlük</h2>
+        <div class="footer-grid">
+          <div class="footer-col">
+            <h3>Eğitim</h3>
+            <p><strong>Anadolu Üniversitesi</strong><br>Halkla İlişkiler ve Reklamcılık<br>Mezuniyet · 2004–2010 · Açıköğretim</p>
+          </div>
+          <div class="footer-col">
+            <h3>Diller</h3>
+            <ul>
+              <li><strong>Türkçe:</strong> Ana dil</li>
+              <li><strong>İngilizce:</strong> İleri düzey okuma‑yazma; orta düzey sözlü iletişim</li>
+              <li><strong>Romence:</strong> Başlangıç seviyesi; aktif öğrenim</li>
+            </ul>
+          </div>
+          <div class="footer-col">
+            <h3>Açık Kaynak / Basın</h3>
+            <ul>
+              <li><strong>GitHub:</strong> github.com/badursun · kişisel ve açık kaynak yazılım projeleri; Fastborn, Classic ASP araçları ve geliştirici yardımcıları</li>
+              <li><strong>GitHub Arctic Code Vault Contributor</strong> · 2020 GitHub Archive Program kapsamında birden fazla repository arşivlendi</li>
+              <li><strong>Marketing Türkiye 2011 Almanak</strong> · Adjans kurucusu olarak sosyal medya ve sektör gelişimi üzerine röportaj / görüş</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <div class="page-label"><span>Anthony Burak Dursun · Özgeçmiş</span><span>3</span></div>
+    </article>
+  </main>
+</body>
+</html>
